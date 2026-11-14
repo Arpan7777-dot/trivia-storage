@@ -1,0 +1,102 @@
+[
+    {
+    "question": "Who was the first Governor-General of independent India?",
+    "options": ["Lord Mountbatten", "C. Rajagopalachari", "Warren Hastings", "Lord Wavell"],
+    "correctIndex": 0
+    },
+    {
+    "question": "Which Article of the Indian Constitution deals with the abolition of untouchability?",
+    "options": ["Article 14", "Article 17", "Article 19", "Article 21"],
+    "correctIndex": 1
+    },
+    {
+    "question": "Who founded the Brahmo Samaj in 1828?",
+    "options": ["Ishwar Chandra Vidyasagar", "Swami Vivekananda", "Raja Ram Mohan Roy", "Debendranath Tagore"],
+    "correctIndex": 2
+    },
+    {
+    "question": "Which is the largest river island in India?",
+    "options": ["Majuli", "Sagar Island", "Umananda Island", "Elephanta Island"],
+    "correctIndex": 0
+    },
+    {
+    "question": "Who was the first woman Chief Minister of an Indian state?",
+    "options": ["Indira Gandhi", "Sucheta Kripalani", "Sarojini Naidu", "Vijaya Raje Scindia"],
+    "correctIndex": 1
+    },
+    {
+    "question": "Which gas is primarily responsible for the greenhouse effect?",
+    "options": ["Oxygen", "Nitrogen", "Carbon dioxide", "Hydrogen"],
+    "correctIndex": 2
+    },
+    {
+    "question": "In which year was the Battle of Plassey fought?",
+    "options": ["1757", "1764", "1857", "1748"],
+    "correctIndex": 0
+    },
+    {
+    "question": "Which is the highest peak in West Bengal?",
+    "options": ["Sandakphu", "Phalut", "Tiger Hill", "Sabargram"],
+    "correctIndex": 0
+    },
+    {
+    "question": "Who is known as the Father of the Indian Constitution?",
+    "options": ["Jawaharlal Nehru", "Dr. B. R. Ambedkar", "Rajendra Prasad", "Sardar Vallabhbhai Patel"],
+    "correctIndex": 1
+    },
+    {
+    "question": "Which vitamin is produced in the human body through exposure to sunlight?",
+    "options": ["Vitamin A", "Vitamin B12", "Vitamin C", "Vitamin D"],
+    "correctIndex": 3
+    },
+    {
+    "question": "The headquarters of the Eastern Railway is located in which city?",
+    "options": ["Howrah", "Kolkata", "Asansol", "Siliguri"],
+    "correctIndex": 1
+    },
+    {
+    "question": "Who wrote the national song of India, Vande Mataram?",
+    "options": ["Rabindranath Tagore", "Bankim Chandra Chattopadhyay", "Kazi Nazrul Islam", "Sarat Chandra Chattopadhyay"],
+    "correctIndex": 1
+    },
+    {
+    "question": "Which organ in the human body produces insulin?",
+    "options": ["Liver", "Kidney", "Pancreas", "Spleen"],
+    "correctIndex": 2
+    },
+    {
+    "question": "Which Five-Year Plan in India was based on the Mahalanobis model?",
+    "options": ["First Five-Year Plan", "Second Five-Year Plan", "Third Five-Year Plan", "Fourth Five-Year Plan"],
+    "correctIndex": 1
+    },
+    {
+    "question": "Where is the Sundarbans National Park located?",
+    "options": ["Odisha", "Assam", "West Bengal", "Andhra Pradesh"],
+    "correctIndex": 2
+    },
+    {
+    "question": "Who was the first Indian to win a Nobel Prize?",
+    "options": ["C. V. Raman", "Rabindranath Tagore", "Mother Teresa", "Amartya Sen"],
+    "correctIndex": 1
+    },
+    {
+    "question": "Which Constitutional Amendment lowered the voting age in India from 21 to 18 years?",
+    "options": ["42nd Amendment", "44th Amendment", "61st Amendment", "73rd Amendment"],
+    "correctIndex": 2
+    },
+    {
+    "question": "Which strait separates India and Sri Lanka?",
+    "options": ["Malacca Strait", "Palk Strait", "Bering Strait", "Hormuz Strait"],
+    "correctIndex": 1
+    },
+    {
+    "question": "What is the SI unit of electric resistance?",
+    "options": ["Volt", "Ampere", "Watt", "Ohm"],
+    "correctIndex": 3
+    },
+    {
+    "question": "Who established the Indian Association in 1876 along with Ananda Mohan Bose?",
+    "options": ["Surendranath Banerjee", "Bal Gangadhar Tilak", "Dadabhai Naoroji", "Lala Lajpat Rai"],
+    "correctIndex": 0
+    }
+]
