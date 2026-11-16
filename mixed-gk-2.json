@@ -1,0 +1,105 @@
+{
+  "title": "Mixed GK 2",
+  "questions":[
+    {
+      "question": "Which Governor-General introduced the Doctrine of Lapse in India?",
+      "options": ["Lord Canning", "Lord Dalhousie", "Lord Curzon", "Lord Wellesley"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which Article of the Indian Constitution guarantees the Right to Constitutional Remedies?",
+      "options": ["Article 19", "Article 21", "Article 32", "Article 44"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which Indian state has the longest coastline?",
+      "options": ["Tamil Nadu", "Andhra Pradesh", "Gujarat", "Maharashtra"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Who was the first Indian woman to become President of the Indian National Congress?",
+      "options": ["Sarojini Naidu", "Annie Besant", "Vijaya Lakshmi Pandit", "Sucheta Kripalani"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which river is known as the Sorrow of Bengal?",
+      "options": ["Damodar", "Hooghly", "Teesta", "Mahananda"],
+      "correctIndex": 0
+    },
+    {
+      "question": "What is the chemical symbol of Tungsten?",
+      "options": ["Tn", "Tu", "W", "Tg"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Who founded the Indian National Army (INA) in 1942?",
+      "options": ["Subhas Chandra Bose", "Rash Behari Bose", "Mohan Singh", "Bhagat Singh"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which is the smallest planet in our Solar System?",
+      "options": ["Mars", "Mercury", "Venus", "Pluto"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Where is the headquarters of the World Health Organization located?",
+      "options": ["New York", "Paris", "Geneva", "Vienna"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which schedule of the Indian Constitution contains provisions related to anti-defection?",
+      "options": ["Eighth Schedule", "Ninth Schedule", "Tenth Schedule", "Eleventh Schedule"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Who was the first Indian to travel into space?",
+      "options": ["Kalpana Chawla", "Rakesh Sharma", "Sunita Williams", "Ravish Malhotra"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which soil is most suitable for growing cotton?",
+      "options": ["Alluvial soil", "Laterite soil", "Black soil", "Red soil"],
+      "correctIndex": 2
+    },
+    {
+      "question": "In which year was the Battle of Buxar fought?",
+      "options": ["1757", "1764", "1773", "1857"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which instrument is used to measure atmospheric pressure?",
+      "options": ["Hygrometer", "Anemometer", "Barometer", "Altimeter"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Who composed the national anthem of Bangladesh?",
+      "options": ["Kazi Nazrul Islam", "Rabindranath Tagore", "Jasimuddin", "Dwijendralal Ray"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which Indian state is known as the Land of Five Rivers?",
+      "options": ["Haryana", "Punjab", "Uttarakhand", "Himachal Pradesh"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which metal is liquid at room temperature?",
+      "options": ["Sodium", "Mercury", "Aluminium", "Copper"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Who was the first Chief Election Commissioner of India?",
+      "options": ["Sukumar Sen", "K. V. K. Sundaram", "T. N. Seshan", "S. P. Sen Verma"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which national park in West Bengal is famous for the one-horned rhinoceros?",
+      "options": ["Sundarbans National Park", "Jaldapara National Park", "Neora Valley National Park", "Singalila National Park"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which Indian mathematician is associated with the Hardy-Ramanujan number 1729?",
+      "options": ["Aryabhata", "Bhaskara II", "Srinivasa Ramanujan", "Brahmagupta"],
+      "correctIndex": 2
+    }
+  ]
+}
