@@ -1,0 +1,118 @@
+{
+  "title": "Mixed GK 3",
+  "questions":[
+    {
+      "question": "Who was the first Indian Governor-General of independent India?",
+      "options": ["Lord Mountbatten", "C. Rajagopalachari", "Dr. Rajendra Prasad", "Jawaharlal Nehru"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which Article of the Indian Constitution provides for the establishment of the Supreme Court?",
+      "options": ["Article 124", "Article 148", "Article 214", "Article 226"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which river is known as the Dakshin Ganga?",
+      "options": ["Krishna", "Kaveri", "Godavari", "Tungabhadra"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Who founded the Ramakrishna Mission?",
+      "options": ["Ramakrishna Paramahamsa", "Swami Vivekananda", "Swami Dayananda Saraswati", "Keshab Chandra Sen"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which district of West Bengal is famous for the traditional Chhau dance of Purulia?",
+      "options": ["Bankura", "Purulia", "Jhargram", "Birbhum"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which element has the atomic number 26?",
+      "options": ["Copper", "Zinc", "Iron", "Nickel"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Who was the first Indian woman to become a judge of the Supreme Court of India?",
+      "options": ["Leila Seth", "M. Fathima Beevi", "Anna Chandy", "Indu Malhotra"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which country is known as the Land of the Rising Sun?",
+      "options": ["China", "Thailand", "Japan", "South Korea"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Where is the headquarters of the International Labour Organization located?",
+      "options": ["Vienna", "Geneva", "Paris", "Brussels"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which Schedule of the Indian Constitution lists the official languages recognized by the Constitution?",
+      "options": ["Fifth Schedule", "Sixth Schedule", "Seventh Schedule", "Eighth Schedule"],
+      "correctIndex": 3
+    },
+    {
+      "question": "Who founded the Maurya Empire?",
+      "options": ["Ashoka", "Bindusara", "Chandragupta Maurya", "Bimbisara"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which lake is known as the Floating Lake of India?",
+      "options": ["Wular Lake", "Loktak Lake", "Chilika Lake", "Sambhar Lake"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which part of the human brain controls balance and coordination?",
+      "options": ["Cerebrum", "Medulla", "Cerebellum", "Hypothalamus"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Who was the first Indian to receive the Bharat Ratna?",
+      "options": ["C. Rajagopalachari", "Jawaharlal Nehru", "Sardar Patel", "Dr. S. Radhakrishnan"],
+      "correctIndex": 0
+    },
+    {
+      "question": "In which year was the Quit India Movement launched?",
+      "options": ["1930", "1935", "1942", "1946"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which Indian state is the largest producer of tea?",
+      "options": ["West Bengal", "Kerala", "Assam", "Tamil Nadu"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which instrument is used to measure the relative humidity of air?",
+      "options": ["Barometer", "Hygrometer", "Anemometer", "Seismograph"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Who wrote the book 'The Discovery of India'?",
+      "options": ["Mahatma Gandhi", "Subhas Chandra Bose", "Jawaharlal Nehru", "Rabindranath Tagore"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which Indian state has the longest international land border with Bangladesh?",
+      "options": ["Assam", "Meghalaya", "Tripura", "West Bengal"],
+      "correctIndex": 3
+    },
+    {
+      "question": "What is the SI unit of pressure?",
+      "options": ["Newton", "Pascal", "Joule", "Watt"],
+      "correctIndex": 1
+    }
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+Is this conversation helpful so far?
