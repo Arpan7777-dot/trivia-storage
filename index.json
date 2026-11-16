@@ -1,3 +1,7 @@
 {
-    "latestTrivia": "https://raw.githubusercontent.com/Arpan7777-dot/trivia-storage/main/mixed-gk-1.json"
+    "latestTrivia": "https://raw.githubusercontent.com/Arpan7777-dot/trivia-storage/main/mixed-gk-1.json",
+    "archives": [
+        "https://raw.githubusercontent.com/Arpan7777-dot/trivia-storage/main/mixed-gk-1.json",
+        "https://raw.githubusercontent.com/Arpan7777-dot/trivia-storage/main/mixed-gk-1.json"
+    ]
 }
