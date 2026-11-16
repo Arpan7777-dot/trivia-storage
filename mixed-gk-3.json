@@ -1,0 +1,105 @@
+{
+  "title": "Mixed GK 3",
+  "questions":[
+    {
+      "question": "Which Act introduced separate electorates for Muslims in British India?",
+      "options": ["Indian Councils Act, 1892", "Morley-Minto Reforms, 1909", "Government of India Act, 1919", "Government of India Act, 1935"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which Article of the Indian Constitution deals with the Finance Commission?",
+      "options": ["Article 280", "Article 324", "Article 356", "Article 368"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which is the longest river flowing entirely within India?",
+      "options": ["Godavari", "Krishna", "Narmada", "Mahanadi"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Who was the founder of the Servants of India Society?",
+      "options": ["Bal Gangadhar Tilak", "Gopal Krishna Gokhale", "Dadabhai Naoroji", "M. G. Ranade"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which district of West Bengal is famous for the Bishnupur terracotta temples?",
+      "options": ["Birbhum", "Bankura", "Purulia", "Paschim Medinipur"],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the pH value of pure water at 25°C?",
+      "options": ["5", "6", "7", "8"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Who was the first Indian woman to climb Mount Everest?",
+      "options": ["Santosh Yadav", "Bachendri Pal", "Arunima Sinha", "Premlata Agarwal"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which planet has the largest number of confirmed moons in the Solar System?",
+      "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Where is the headquarters of UNESCO located?",
+      "options": ["Geneva", "New York", "Paris", "Rome"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which part of the Indian Constitution deals with Fundamental Duties?",
+      "options": ["Part III", "Part IV", "Part IVA", "Part V"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which Mughal emperor built the Buland Darwaza?",
+      "options": ["Babur", "Akbar", "Jahangir", "Shah Jahan"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which is the largest freshwater lake in India by surface area?",
+      "options": ["Wular Lake", "Dal Lake", "Loktak Lake", "Kolleru Lake"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which blood group is known as the universal red blood cell donor?",
+      "options": ["AB positive", "O positive", "O negative", "AB negative"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Who discovered the Raman Effect?",
+      "options": ["Homi J. Bhabha", "C. V. Raman", "Satyendra Nath Bose", "Meghnad Saha"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which Indian state was the first to introduce Panchayati Raj?",
+      "options": ["West Bengal", "Rajasthan", "Gujarat", "Maharashtra"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The Tropic of Cancer passes through how many Indian states?",
+      "options": ["6", "7", "8", "9"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which gas is released during photosynthesis?",
+      "options": ["Carbon dioxide", "Nitrogen", "Oxygen", "Hydrogen"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Who founded the Asiatic Society of Bengal in 1784?",
+      "options": ["Warren Hastings", "William Jones", "James Prinsep", "Charles Wilkins"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which Indian state has the largest forest cover by area according to the India State of Forest Report 2023?",
+      "options": ["Arunachal Pradesh", "Madhya Pradesh", "Chhattisgarh", "Odisha"],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the SI unit of frequency?",
+      "options": ["Newton", "Joule", "Hertz", "Pascal"],
+      "correctIndex": 2
+    }
+  ]
+}
