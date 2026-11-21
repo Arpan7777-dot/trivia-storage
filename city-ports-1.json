@@ -1,155 +1,155 @@
 { 
     title: "City & Ports Mock",
     questions: [
-    {
-    "question": "Which Indian city is known as the Manchester of India?",
-    "options": ["Mumbai", "Ahmedabad", "Surat", "Kanpur"],
-    "correctIndex": 1
-    },
-    {
-    "question": "Which is the largest natural port in India?",
-    "options": ["Chennai", "Kolkata", "Mumbai", "Visakhapatnam"],
-    "correctIndex": 2
-    },
-    {
-    "question": "Which city is known as the Silicon Valley of India?",
-    "options": ["Hyderabad", "Pune", "Bengaluru", "Chennai"],
-    "correctIndex": 2
-    },
-    {
-    "question": "Which port is located on the eastern coast of India?",
-    "options": ["Kandla", "Mormugao", "Paradip", "Mumbai"],
-    "correctIndex": 2
-    },
-    {
-    "question": "Which Indian city is famous as the Pink City?",
-    "options": ["Udaipur", "Jaipur", "Jodhpur", "Bikaner"],
-    "correctIndex": 1
-    },
-    {
-    "question": "Which port is situated in Gujarat and was formerly known as Kandla Port?",
-    "options": ["Deendayal Port", "Mundra Port", "Pipavav Port", "Hazira Port"],
-    "correctIndex": 0
-    },
-    {
-    "question": "Which city is known as the City of Joy?",
-    "options": ["Mumbai", "Kolkata", "Lucknow", "Varanasi"],
-    "correctIndex": 1
-    },
-    {
-    "question": "Which is the deepest landlocked and protected major port in India?",
-    "options": ["Chennai Port", "Visakhapatnam Port", "Kochi Port", "Paradip Port"],
-    "correctIndex": 1
-    },
-    {
-    "question": "Which city is known as the financial capital of India?",
-    "options": ["Delhi", "Kolkata", "Mumbai", "Hyderabad"],
-    "correctIndex": 2
-    },
-    {
-    "question": "Which major port is located in Goa?",
-    "options": ["New Mangalore Port", "Mormugao Port", "Kochi Port", "Kandla Port"],
-    "correctIndex": 1
-    },
-    {
-    "question": "Which city is known as the City of Nawabs?",
-    "options": ["Lucknow", "Agra", "Bhopal", "Patna"],
-    "correctIndex": 0
-    },
-    {
-    "question": "Which port is located at the southernmost tip of the Indian mainland?",
-    "options": ["Tuticorin (V.O. Chidambaranar) Port", "Chennai Port", "Kochi Port", "Ennore Port"],
-    "correctIndex": 0
-    },
-    {
-    "question": "Which Indian city is known as the Orange City?",
-    "options": ["Nashik", "Nagpur", "Amravati", "Aurangabad"],
-    "correctIndex": 1
-    },
-    {
-    "question": "Which port serves as the major maritime gateway for Kolkata?",
-    "options": ["Haldia Dock Complex", "Paradip Port", "Visakhapatnam Port", "Dhamra Port"],
-    "correctIndex": 0
-    },
-    {
-    "question": "Which city is known as the Manchester of South India?",
-    "options": ["Madurai", "Coimbatore", "Chennai", "Tiruppur"],
-    "correctIndex": 1
-    },
-    {
-    "question": "Which Indian port is situated on an island in the Arabian Sea?",
-    "options": ["Kochi Port", "Mumbai Port", "Mormugao Port", "New Mangalore Port"],
-    "correctIndex": 1
-    },
-    {
-    "question": "Which city is known as the Steel City of India?",
-    "options": ["Bhilai", "Rourkela", "Jamshedpur", "Bokaro"],
-    "correctIndex": 2
-    },
-    {
-    "question": "Which major port is located in Odisha?",
-    "options": ["Paradip Port", "Kochi Port", "Kandla Port", "Chennai Port"],
-    "correctIndex": 0
-    },
-    {
-    "question": "Which city is known as the Gateway of India?",
-    "options": ["Kolkata", "Mumbai", "Chennai", "Kochi"],
-    "correctIndex": 1
-    },
-    {
-    "question": "Which port is located near the Gulf of Khambhat in Gujarat?",
-    "options": ["Mormugao Port", "Deendayal Port", "Mumbai Port", "Kochi Port"],
-    "correctIndex": 1
-    },
-    {
-    "question": "Which city is famous for its historical Charminar monument?",
-    "options": ["Bengaluru", "Hyderabad", "Mysuru", "Vijayawada"],
-    "correctIndex": 1
-    },
-    {
-    "question": "Which major port is situated in Kerala?",
-    "options": ["Kochi Port", "Chennai Port", "Paradip Port", "Mormugao Port"],
-    "correctIndex": 0
-    },
-    {
-    "question": "Which Indian city is known as the City of Lakes?",
-    "options": ["Jaipur", "Udaipur", "Jodhpur", "Ajmer"],
-    "correctIndex": 1
-    },
-    {
-    "question": "Which port is located at the mouth of the Hooghly River?",
-    "options": ["Mumbai Port", "Kolkata Port", "Kochi Port", "Chennai Port"],
-    "correctIndex": 1
-    },
-    {
-    "question": "Which city is known as the Cultural Capital of Kerala?",
-    "options": ["Kochi", "Kozhikode", "Thrissur", "Thiruvananthapuram"],
-    "correctIndex": 2
-    },
-    {
-    "question": "Which Indian port is famous for exporting iron ore from Goa?",
-    "options": ["Mormugao Port", "Paradip Port", "Kandla Port", "Chennai Port"],
-    "correctIndex": 0
-    },
-    {
-    "question": "Which city is known as the City of Temples in Odisha?",
-    "options": ["Cuttack", "Puri", "Bhubaneswar", "Konark"],
-    "correctIndex": 2
-    },
-    {
-    "question": "Which major port is located in Karnataka?",
-    "options": ["New Mangalore Port", "Mormugao Port", "Kochi Port", "Tuticorin Port"],
-    "correctIndex": 0
-    },
-    {
-    "question": "Which Indian city is known as the Queen of the Arabian Sea?",
-    "options": ["Mumbai", "Kochi", "Mangalore", "Panaji"],
-    "correctIndex": 1
-    },
-    {
-    "question": "Which port is located on the Coromandel Coast of India?",
-    "options": ["Mumbai Port", "Chennai Port", "Kochi Port", "Mormugao Port"],
-    "correctIndex": 1
-    }
+        {
+        "question": "Which Indian city is known as the Manchester of India?",
+        "options": ["Mumbai", "Ahmedabad", "Surat", "Kanpur"],
+        "correctIndex": 1
+        },
+        {
+        "question": "Which is the largest natural port in India?",
+        "options": ["Chennai", "Kolkata", "Mumbai", "Visakhapatnam"],
+        "correctIndex": 2
+        },
+        {
+        "question": "Which city is known as the Silicon Valley of India?",
+        "options": ["Hyderabad", "Pune", "Bengaluru", "Chennai"],
+        "correctIndex": 2
+        },
+        {
+        "question": "Which port is located on the eastern coast of India?",
+        "options": ["Kandla", "Mormugao", "Paradip", "Mumbai"],
+        "correctIndex": 2
+        },
+        {
+        "question": "Which Indian city is famous as the Pink City?",
+        "options": ["Udaipur", "Jaipur", "Jodhpur", "Bikaner"],
+        "correctIndex": 1
+        },
+        {
+        "question": "Which port is situated in Gujarat and was formerly known as Kandla Port?",
+        "options": ["Deendayal Port", "Mundra Port", "Pipavav Port", "Hazira Port"],
+        "correctIndex": 0
+        },
+        {
+        "question": "Which city is known as the City of Joy?",
+        "options": ["Mumbai", "Kolkata", "Lucknow", "Varanasi"],
+        "correctIndex": 1
+        },
+        {
+        "question": "Which is the deepest landlocked and protected major port in India?",
+        "options": ["Chennai Port", "Visakhapatnam Port", "Kochi Port", "Paradip Port"],
+        "correctIndex": 1
+        },
+        {
+        "question": "Which city is known as the financial capital of India?",
+        "options": ["Delhi", "Kolkata", "Mumbai", "Hyderabad"],
+        "correctIndex": 2
+        },
+        {
+        "question": "Which major port is located in Goa?",
+        "options": ["New Mangalore Port", "Mormugao Port", "Kochi Port", "Kandla Port"],
+        "correctIndex": 1
+        },
+        {
+        "question": "Which city is known as the City of Nawabs?",
+        "options": ["Lucknow", "Agra", "Bhopal", "Patna"],
+        "correctIndex": 0
+        },
+        {
+        "question": "Which port is located at the southernmost tip of the Indian mainland?",
+        "options": ["Tuticorin (V.O. Chidambaranar) Port", "Chennai Port", "Kochi Port", "Ennore Port"],
+        "correctIndex": 0
+        },
+        {
+        "question": "Which Indian city is known as the Orange City?",
+        "options": ["Nashik", "Nagpur", "Amravati", "Aurangabad"],
+        "correctIndex": 1
+        },
+        {
+        "question": "Which port serves as the major maritime gateway for Kolkata?",
+        "options": ["Haldia Dock Complex", "Paradip Port", "Visakhapatnam Port", "Dhamra Port"],
+        "correctIndex": 0
+        },
+        {
+        "question": "Which city is known as the Manchester of South India?",
+        "options": ["Madurai", "Coimbatore", "Chennai", "Tiruppur"],
+        "correctIndex": 1
+        },
+        {
+        "question": "Which Indian port is situated on an island in the Arabian Sea?",
+        "options": ["Kochi Port", "Mumbai Port", "Mormugao Port", "New Mangalore Port"],
+        "correctIndex": 1
+        },
+        {
+        "question": "Which city is known as the Steel City of India?",
+        "options": ["Bhilai", "Rourkela", "Jamshedpur", "Bokaro"],
+        "correctIndex": 2
+        },
+        {
+        "question": "Which major port is located in Odisha?",
+        "options": ["Paradip Port", "Kochi Port", "Kandla Port", "Chennai Port"],
+        "correctIndex": 0
+        },
+        {
+        "question": "Which city is known as the Gateway of India?",
+        "options": ["Kolkata", "Mumbai", "Chennai", "Kochi"],
+        "correctIndex": 1
+        },
+        {
+        "question": "Which port is located near the Gulf of Khambhat in Gujarat?",
+        "options": ["Mormugao Port", "Deendayal Port", "Mumbai Port", "Kochi Port"],
+        "correctIndex": 1
+        },
+        {
+        "question": "Which city is famous for its historical Charminar monument?",
+        "options": ["Bengaluru", "Hyderabad", "Mysuru", "Vijayawada"],
+        "correctIndex": 1
+        },
+        {
+        "question": "Which major port is situated in Kerala?",
+        "options": ["Kochi Port", "Chennai Port", "Paradip Port", "Mormugao Port"],
+        "correctIndex": 0
+        },
+        {
+        "question": "Which Indian city is known as the City of Lakes?",
+        "options": ["Jaipur", "Udaipur", "Jodhpur", "Ajmer"],
+        "correctIndex": 1
+        },
+        {
+        "question": "Which port is located at the mouth of the Hooghly River?",
+        "options": ["Mumbai Port", "Kolkata Port", "Kochi Port", "Chennai Port"],
+        "correctIndex": 1
+        },
+        {
+        "question": "Which city is known as the Cultural Capital of Kerala?",
+        "options": ["Kochi", "Kozhikode", "Thrissur", "Thiruvananthapuram"],
+        "correctIndex": 2
+        },
+        {
+        "question": "Which Indian port is famous for exporting iron ore from Goa?",
+        "options": ["Mormugao Port", "Paradip Port", "Kandla Port", "Chennai Port"],
+        "correctIndex": 0
+        },
+        {
+        "question": "Which city is known as the City of Temples in Odisha?",
+        "options": ["Cuttack", "Puri", "Bhubaneswar", "Konark"],
+        "correctIndex": 2
+        },
+        {
+        "question": "Which major port is located in Karnataka?",
+        "options": ["New Mangalore Port", "Mormugao Port", "Kochi Port", "Tuticorin Port"],
+        "correctIndex": 0
+        },
+        {
+        "question": "Which Indian city is known as the Queen of the Arabian Sea?",
+        "options": ["Mumbai", "Kochi", "Mangalore", "Panaji"],
+        "correctIndex": 1
+        },
+        {
+        "question": "Which port is located on the Coromandel Coast of India?",
+        "options": ["Mumbai Port", "Chennai Port", "Kochi Port", "Mormugao Port"],
+        "correctIndex": 1
+        }
     ]
 }
