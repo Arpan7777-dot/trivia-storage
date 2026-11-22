@@ -1,0 +1,155 @@
+{ 
+  "title": "Light(Science) Mock",
+  "questions":[
+    {
+    "question": "Which type of lens is thicker at the centre and thinner at the edges?",
+    "options": ["Concave lens", "Convex lens", "Cylindrical lens", "Plano-concave lens"],
+    "correctIndex": 1
+    },
+    {
+    "question": "What happens to the speed of light when it enters water from air?",
+    "options": ["It increases", "It decreases", "It remains unchanged", "It becomes zero"],
+    "correctIndex": 1
+    },
+    {
+    "question": "Which mirror is used in solar cookers to concentrate sunlight?",
+    "options": ["Plane mirror", "Convex mirror", "Concave mirror", "Cylindrical mirror"],
+    "correctIndex": 2
+    },
+    {
+    "question": "What is the relationship between the radius of curvature and focal length of a spherical mirror?",
+    "options": ["R = f", "R = 2f", "R = 3f", "R = f/2"],
+    "correctIndex": 1
+    },
+    {
+    "question": "Which part of the eye acts as a screen on which an image is formed?",
+    "options": ["Iris", "Cornea", "Retina", "Pupil"],
+    "correctIndex": 2
+    },
+    {
+    "question": "Which type of lens is used in a simple magnifying glass?",
+    "options": ["Concave lens", "Convex lens", "Bifocal lens", "Cylindrical lens"],
+    "correctIndex": 1
+    },
+    {
+    "question": "What is the bending of light around the edges of an obstacle called?",
+    "options": ["Reflection", "Refraction", "Diffraction", "Dispersion"],
+    "correctIndex": 2
+    },
+    {
+    "question": "Which electromagnetic radiation is commonly used in television remote controls?",
+    "options": ["Ultraviolet rays", "Infrared rays", "X-rays", "Gamma rays"],
+    "correctIndex": 1
+    },
+    {
+    "question": "Which colour of light deviates the most when passing through a glass prism?",
+    "options": ["Red", "Yellow", "Green", "Violet"],
+    "correctIndex": 3
+    },
+    {
+    "question": "What is the SI unit of luminous intensity?",
+    "options": ["Lux", "Lumen", "Candela", "Watt"],
+    "correctIndex": 2
+    },
+    {
+    "question": "Which phenomenon is responsible for the reddish appearance of the Sun during sunrise and sunset?",
+    "options": ["Reflection", "Scattering of light", "Diffraction", "Polarisation"],
+    "correctIndex": 1
+    },
+    {
+    "question": "Which instrument is used to split light into its component wavelengths?",
+    "options": ["Barometer", "Spectrometer", "Ammeter", "Calorimeter"],
+    "correctIndex": 1
+    },
+    {
+    "question": "What is the nature of the image formed by a plane mirror?",
+    "options": ["Real and inverted", "Virtual and erect", "Real and erect", "Virtual and inverted"],
+    "correctIndex": 1
+    },
+    {
+    "question": "Which scientist explained the photoelectric effect?",
+    "options": ["Isaac Newton", "Albert Einstein", "Niels Bohr", "Ernest Rutherford"],
+    "correctIndex": 1
+    },
+    {
+    "question": "Which electromagnetic waves are used in radar systems?",
+    "options": ["Radio waves and microwaves", "Visible light", "Ultraviolet rays", "Gamma rays"],
+    "correctIndex": 0
+    },
+    {
+    "question": "What is the power of a lens whose focal length is 50 cm?",
+    "options": ["+2 D", "+5 D", "-2 D", "-5 D"],
+    "correctIndex": 0
+    },
+    {
+    "question": "Which type of lens is used to correct presbyopia in bifocal spectacles?",
+    "options": ["Only concave lens", "Only convex lens", "Combination of suitable convex and concave powers", "Only cylindrical lens"],
+    "correctIndex": 2
+    },
+    {
+    "question": "What is the approximate speed of light in glass with refractive index 1.5?",
+    "options": ["1 × 10⁸ m/s", "2 × 10⁸ m/s", "3 × 10⁸ m/s", "4.5 × 10⁸ m/s"],
+    "correctIndex": 1
+    },
+    {
+    "question": "Which phenomenon is used in a periscope?",
+    "options": ["Refraction", "Reflection", "Dispersion", "Diffraction"],
+    "correctIndex": 1
+    },
+    {
+    "question": "Which part of a camera performs a function similar to the iris of the human eye?",
+    "options": ["Lens", "Shutter", "Aperture diaphragm", "Image sensor"],
+    "correctIndex": 2
+    },
+    {
+    "question": "What is the critical angle?",
+    "options": ["Angle of reflection at a plane mirror", "Angle of incidence in the denser medium for which the angle of refraction is 90°", "Angle between two mirrors", "Angle of deviation through a prism"],
+    "correctIndex": 1
+    },
+    {
+    "question": "Which colour of visible light has the shortest wavelength?",
+    "options": ["Red", "Yellow", "Green", "Violet"],
+    "correctIndex": 3
+    },
+    {
+    "question": "Which type of mirror is used in the headlights of vehicles?",
+    "options": ["Plane mirror", "Convex mirror", "Concave mirror", "Spherical convex mirror"],
+    "correctIndex": 2
+    },
+    {
+    "question": "Which electromagnetic radiation is used for sterilising medical equipment?",
+    "options": ["Radio waves", "Infrared rays", "Ultraviolet rays", "Microwaves"],
+    "correctIndex": 2
+    },
+    {
+    "question": "What is the phenomenon in which two light waves combine to produce bright and dark fringes?",
+    "options": ["Interference", "Reflection", "Refraction", "Dispersion"],
+    "correctIndex": 0
+    },
+    {
+    "question": "Which type of wave is light?",
+    "options": ["Longitudinal mechanical wave", "Transverse electromagnetic wave", "Longitudinal electromagnetic wave", "Transverse mechanical wave"],
+    "correctIndex": 1
+    },
+    {
+    "question": "What is the angle between the incident ray and reflected ray when the angle of incidence is 30°?",
+    "options": ["30°", "45°", "60°", "90°"],
+    "correctIndex": 2
+    },
+    {
+    "question": "Which optical phenomenon is responsible for the sparkle of a diamond?",
+    "options": ["Diffraction", "Total internal reflection", "Polarisation", "Interference"],
+    "correctIndex": 1
+    },
+    {
+    "question": "Which device is used to produce a parallel beam of light?",
+    "options": ["Concave lens", "Convex lens with a point source at its focus", "Plane mirror", "Convex mirror"],
+    "correctIndex": 1
+    },
+    {
+    "question": "Which electromagnetic radiation is used in night-vision devices?",
+    "options": ["Infrared radiation", "Ultraviolet radiation", "X-rays", "Gamma rays"],
+    "correctIndex": 0
+    }
+    ]
+}
