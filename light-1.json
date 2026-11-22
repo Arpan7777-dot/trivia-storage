@@ -1,0 +1,155 @@
+{
+  "title": "Light(Physics) Mock 1",
+  "questions":  [
+    {
+    "question": "What is the speed of light in a vacuum?",
+    "options": ["3 × 10⁶ m/s", "3 × 10⁸ m/s", "3 × 10¹⁰ m/s", "3 × 10⁵ m/s"],
+    "correctIndex": 1
+    },
+    {
+    "question": "Which type of lens is used to correct myopia (short-sightedness)?",
+    "options": ["Convex lens", "Concave lens", "Bifocal lens", "Cylindrical lens"],
+    "correctIndex": 1
+    },
+    {
+    "question": "Which phenomenon is responsible for the blue colour of the sky?",
+    "options": ["Reflection", "Refraction", "Rayleigh scattering", "Dispersion"],
+    "correctIndex": 2
+    },
+    {
+    "question": "Which mirror is used as a rear-view mirror in vehicles?",
+    "options": ["Plane mirror", "Concave mirror", "Convex mirror", "Parabolic mirror"],
+    "correctIndex": 2
+    },
+    {
+    "question": "What is the SI unit of the power of a lens?",
+    "options": ["Watt", "Dioptre", "Metre", "Joule"],
+    "correctIndex": 1
+    },
+    {
+    "question": "Which colour of visible light has the longest wavelength?",
+    "options": ["Violet", "Blue", "Green", "Red"],
+    "correctIndex": 3
+    },
+    {
+    "question": "Which colour of visible light has the highest frequency?",
+    "options": ["Red", "Yellow", "Violet", "Orange"],
+    "correctIndex": 2
+    },
+    {
+    "question": "What is the bending of light when it passes from one medium to another called?",
+    "options": ["Reflection", "Refraction", "Diffraction", "Interference"],
+    "correctIndex": 1
+    },
+    {
+    "question": "Which optical instrument is used to see distant objects clearly?",
+    "options": ["Microscope", "Telescope", "Periscope", "Magnifying glass"],
+    "correctIndex": 1
+    },
+    {
+    "question": "Which phenomenon explains the formation of a rainbow?",
+    "options": ["Only reflection", "Only refraction", "Dispersion, refraction and internal reflection", "Diffraction"],
+    "correctIndex": 2
+    },
+    {
+    "question": "What is the angle of incidence when a ray of light strikes a plane mirror normally?",
+    "options": ["0°", "30°", "45°", "90°"],
+    "correctIndex": 0
+    },
+    {
+    "question": "Which law states that the angle of incidence is equal to the angle of reflection?",
+    "options": ["Snell's law", "Law of reflection", "Newton's law", "Ohm's law"],
+    "correctIndex": 1
+    },
+    {
+    "question": "Which type of mirror is used by dentists to obtain an enlarged image of teeth?",
+    "options": ["Plane mirror", "Convex mirror", "Concave mirror", "Spherical convex lens"],
+    "correctIndex": 2
+    },
+    {
+    "question": "What is the splitting of white light into its constituent colours called?",
+    "options": ["Reflection", "Dispersion", "Diffraction", "Polarisation"],
+    "correctIndex": 1
+    },
+    {
+    "question": "Which part of the human eye controls the amount of light entering it?",
+    "options": ["Retina", "Cornea", "Iris", "Optic nerve"],
+    "correctIndex": 2
+    },
+    {
+    "question": "The image formed on the retina of the human eye is:",
+    "options": ["Virtual and erect", "Real and inverted", "Virtual and inverted", "Real and erect"],
+    "correctIndex": 1
+    },
+    {
+    "question": "Which defect of vision is corrected using a convex lens?",
+    "options": ["Myopia", "Hypermetropia", "Astigmatism", "Colour blindness"],
+    "correctIndex": 1
+    },
+    {
+    "question": "What is the phenomenon responsible for the apparent twinkling of stars?",
+    "options": ["Reflection", "Atmospheric refraction", "Dispersion", "Total internal reflection"],
+    "correctIndex": 1
+    },
+    {
+    "question": "Which optical phenomenon is used in optical fibre communication?",
+    "options": ["Diffraction", "Total internal reflection", "Dispersion", "Scattering"],
+    "correctIndex": 1
+    },
+    {
+    "question": "What is the focal length of a plane mirror?",
+    "options": ["Zero", "One metre", "Infinite", "Half a metre"],
+    "correctIndex": 2
+    },
+    {
+    "question": "Which device converts light energy directly into electrical energy?",
+    "options": ["Electric motor", "Photovoltaic cell", "Transformer", "Dynamo"],
+    "correctIndex": 1
+    },
+    {
+    "question": "Which of the following electromagnetic waves has the shortest wavelength?",
+    "options": ["Radio waves", "Microwaves", "X-rays", "Gamma rays"],
+    "correctIndex": 3
+    },
+    {
+    "question": "Which scientist proposed the wave theory of light?",
+    "options": ["Isaac Newton", "Christiaan Huygens", "Albert Einstein", "James Clerk Maxwell"],
+    "correctIndex": 1
+    },
+    {
+    "question": "What is the approximate refractive index of air?",
+    "options": ["1.0", "1.33", "1.5", "2.0"],
+    "correctIndex": 0
+    },
+    {
+    "question": "Which phenomenon makes a pencil appear bent when placed in a glass of water?",
+    "options": ["Reflection", "Refraction", "Diffraction", "Scattering"],
+    "correctIndex": 1
+    },
+    {
+    "question": "Which colour is scattered the least by the atmosphere?",
+    "options": ["Violet", "Blue", "Green", "Red"],
+    "correctIndex": 3
+    },
+    {
+    "question": "What is the minimum distance of distinct vision for a normal human eye?",
+    "options": ["10 cm", "15 cm", "25 cm", "50 cm"],
+    "correctIndex": 2
+    },
+    {
+    "question": "Which type of image is always formed by a convex mirror?",
+    "options": ["Real and inverted", "Virtual and erect", "Real and erect", "Virtual and inverted"],
+    "correctIndex": 1
+    },
+    {
+    "question": "Which phenomenon is responsible for the formation of a mirage in deserts?",
+    "options": ["Atmospheric refraction and total internal reflection", "Diffraction", "Interference", "Polarisation"],
+    "correctIndex": 0
+    },
+    {
+    "question": "Who demonstrated that white light consists of seven colours using a glass prism?",
+    "options": ["Galileo Galilei", "Isaac Newton", "Thomas Young", "Michael Faraday"],
+    "correctIndex": 1
+    }
+    ]
+}
