@@ -1,527 +1,529 @@
-[
-  {
-    "question": "ভারতের সংবিধান কবে কার্যকর হয়?",
-    "options": ["১৫ আগস্ট ১৯৪৭", "২৬ নভেম্বর ১৯৪৯", "২৬ জানুয়ারি ১৯৫০", "২ অক্টোবর ১৯৫০"],
-    "correctIndex": 2
-  },
-  {
-    "question": "Choose the synonym of 'Benevolent'.",
-    "options": ["Cruel", "Kind", "Selfish", "Rude"],
-    "correctIndex": 1
-  },
-  {
-    "question": "একটি সংখ্যার ২০% হলো ৫০। সংখ্যাটি কত?",
-    "options": ["২০০", "২৫০", "৩০০", "৩৫০"],
-    "correctIndex": 1
-  },
-  {
-    "question": "পলাশীর যুদ্ধ কত সালে সংঘটিত হয়?",
-    "options": ["১৭৫৭", "১৭৬৪", "১৭৭২", "১৭৮৪"],
-    "correctIndex": 0
-  },
-  {
-    "question": "Fill in the blank: She is interested ___ music.",
-    "options": ["on", "at", "in", "for"],
-    "correctIndex": 2
-  },
-  {
-    "question": "১২, ১৮ ও ২৪-এর গসাগু কত?",
-    "options": ["৩", "৬", "১২", "১৮"],
-    "correctIndex": 1
-  },
-  {
-    "question": "ভারতের প্রথম রাষ্ট্রপতি কে ছিলেন?",
-    "options": ["জওহরলাল নেহরু", "ড. রাজেন্দ্র প্রসাদ", "ড. সর্বপল্লী রাধাকৃষ্ণন", "জাকির হুসেন"],
-    "correctIndex": 1
-  },
-  {
-    "question": "Choose the antonym of 'Ancient'.",
-    "options": ["Old", "Antique", "Modern", "Historic"],
-    "correctIndex": 2
-  },
-  {
-    "question": "একটি ট্রেন ঘণ্টায় ৬০ কিমি বেগে ৩ ঘণ্টায় কত দূরত্ব অতিক্রম করবে?",
-    "options": ["১২০ কিমি", "১৫০ কিমি", "১৮০ কিমি", "২০০ কিমি"],
-    "correctIndex": 2
-  },
-  {
-    "question": "সুন্দরবন কোন ধরনের অরণ্যের জন্য বিখ্যাত?",
-    "options": ["সরলবর্গীয়", "ম্যানগ্রোভ", "চিরহরিৎ", "পর্বত অরণ্য"],
-    "correctIndex": 1
-  },
-  {
-    "question": "Choose the correct spelling.",
-    "options": ["Separate", "Seperate", "Seperete", "Separete"],
-    "correctIndex": 0
-  },
-  {
-    "question": "একটি পণ্যের ক্রয়মূল্য ৪০০ টাকা এবং বিক্রয়মূল্য ৫০০ টাকা হলে লাভের হার কত?",
-    "options": ["১০%", "১৫%", "২০%", "২৫%"],
-    "correctIndex": 3
-  },
-  {
-    "question": "ভারতের সংবিধানের খসড়া কমিটির সভাপতি কে ছিলেন?",
-    "options": ["রাজেন্দ্র প্রসাদ", "বি. আর. আম্বেদকর", "জওহরলাল নেহরু", "সর্দার প্যাটেল"],
-    "correctIndex": 1
-  },
-  {
-    "question": "Choose the correct passive voice: 'The teacher praised the student.'",
-    "options": ["The student praised the teacher.", "The student was praised by the teacher.", "The student is praised by the teacher.", "The teacher was praised by the student."],
-    "correctIndex": 1
-  },
-  {
-    "question": "একটি বর্গক্ষেত্রের বাহু ৯ সেমি হলে ক্ষেত্রফল কত?",
-    "options": ["১৮ বর্গ সেমি", "৩৬ বর্গ সেমি", "৭২ বর্গ সেমি", "৮১ বর্গ সেমি"],
-    "correctIndex": 3
-  },
-  {
-    "question": "ভারতের জাতীয় জলজ প্রাণী কোনটি?",
-    "options": ["নীল তিমি", "গঙ্গার ডলফিন", "কুমির", "কচ্ছপ"],
-    "correctIndex": 1
-  },
-  {
-    "question": "Choose the one-word substitution: 'A person who writes plays'.",
-    "options": ["Novelist", "Poet", "Dramatist", "Journalist"],
-    "correctIndex": 2
-  },
-  {
-    "question": "৫ জন শ্রমিক একটি কাজ ১২ দিনে সম্পন্ন করলে ১০ জন শ্রমিক কাজটি কত দিনে করবে?",
-    "options": ["৪ দিন", "৫ দিন", "৬ দিন", "৮ দিন"],
-    "correctIndex": 2
-  },
-  {
-    "question": "ভারতের বৃহত্তম রাজ্য আয়তনের দিক থেকে কোনটি?",
-    "options": ["মধ্যপ্রদেশ", "মহারাষ্ট্র", "রাজস্থান", "উত্তরপ্রদেশ"],
-    "correctIndex": 2
-  },
-  {
-    "question": "Fill in the blank: He has been waiting ___ two hours.",
-    "options": ["since", "for", "from", "by"],
-    "correctIndex": 1
-  },
-  {
-    "question": "দুটি সংখ্যার অনুপাত ২:৩ এবং যোগফল ৫০। ছোট সংখ্যাটি কত?",
-    "options": ["১৫", "২০", "২৫", "৩০"],
-    "correctIndex": 1
-  },
-  {
-    "question": "ভারতের নির্বাচন কমিশন কোন ধরনের সংস্থা?",
-    "options": ["বেসরকারি সংস্থা", "সাংবিধানিক সংস্থা", "আর্থিক সংস্থা", "বিধিবদ্ধ সংস্থা"],
-    "correctIndex": 1
-  },
-  {
-    "question": "Choose the synonym of 'Diligent'.",
-    "options": ["Lazy", "Hardworking", "Careless", "Weak"],
-    "correctIndex": 1
-  },
-  {
-    "question": "একটি বৃত্তের ব্যাসার্ধ ৭ সেমি হলে ক্ষেত্রফল কত? (π = ২২/৭)",
-    "options": ["৪৪ বর্গ সেমি", "৮৮ বর্গ সেমি", "১৫৪ বর্গ সেমি", "৩০৮ বর্গ সেমি"],
-    "correctIndex": 2
-  },
-  {
-    "question": "ভারতের জাতীয় কংগ্রেস কত সালে প্রতিষ্ঠিত হয়?",
-    "options": ["১৮৫৭", "১৮৮৫", "১৯০৫", "১৯১৯"],
-    "correctIndex": 1
-  },
-  {
-    "question": "Choose the correct plural form of 'Phenomenon'.",
-    "options": ["Phenomenons", "Phenomena", "Phenomenas", "Phenomenon"],
-    "correctIndex": 1
-  },
-  {
-    "question": "একটি সংখ্যার ৩/৪ অংশ ৬০ হলে সংখ্যাটি কত?",
-    "options": ["৭০", "৭৫", "৮০", "৯০"],
-    "correctIndex": 2
-  },
-  {
-    "question": "কাজিরাঙা জাতীয় উদ্যান কোন রাজ্যে অবস্থিত?",
-    "options": ["পশ্চিমবঙ্গ", "অসম", "মেঘালয়", "ত্রিপুরা"],
-    "correctIndex": 1
-  },
-  {
-    "question": "Choose the antonym of 'Generous'.",
-    "options": ["Kind", "Helpful", "Stingy", "Liberal"],
-    "correctIndex": 2
-  },
-  {
-    "question": "একটি পণ্যের চিহ্নিত মূল্য ১০০০ টাকা। ১৫% ছাড় দিলে বিক্রয়মূল্য কত?",
-    "options": ["৮০০ টাকা", "৮২৫ টাকা", "৮৫০ টাকা", "৯০০ টাকা"],
-    "correctIndex": 2
-  },
-  {
-    "question": "ভারতের প্রথম মহিলা প্রধানমন্ত্রী কে ছিলেন?",
-    "options": ["সরোজিনী নাইডু", "প্রতিভা পাটিল", "ইন্দিরা গান্ধী", "সুচেতা কৃপালনী"],
-    "correctIndex": 2
-  },
-  {
-    "question": "Choose the correct indirect speech: He said, 'I am tired.'",
-    "options": ["He said that I am tired.", "He said that he was tired.", "He says that he was tired.", "He told that he is tired."],
-    "correctIndex": 1
-  },
-  {
-    "question": "২০০ জুল কাজ ১০ সেকেন্ডে সম্পন্ন হলে ক্ষমতা কত?",
-    "options": ["১০ ওয়াট", "২০ ওয়াট", "৫০ ওয়াট", "১০০ ওয়াট"],
-    "correctIndex": 1
-  },
-  {
-    "question": "ভারতের রিজার্ভ ব্যাংক কত সালে প্রতিষ্ঠিত হয়?",
-    "options": ["১৯২১", "১৯৩৫", "১৯৪৭", "১৯৫০"],
-    "correctIndex": 1
-  },
-  {
-    "question": "Choose the correct article: He is ___ honest person.",
-    "options": ["a", "an", "the", "no article"],
-    "correctIndex": 1
-  },
-  {
-    "question": "একটি আয়তক্ষেত্রের দৈর্ঘ্য ১২ সেমি এবং প্রস্থ ৮ সেমি হলে পরিসীমা কত?",
-    "options": ["২০ সেমি", "৩২ সেমি", "৪০ সেমি", "৯৬ সেমি"],
-    "correctIndex": 2
-  },
-  {
-    "question": "ভারতের সংবিধানে অস্পৃশ্যতা বিলোপের কথা কোন অনুচ্ছেদে বলা হয়েছে?",
-    "options": ["অনুচ্ছেদ ১৪", "অনুচ্ছেদ ১৭", "অনুচ্ছেদ ১৯", "অনুচ্ছেদ ২১"],
-    "correctIndex": 1
-  },
-  {
-    "question": "Choose the meaning of the idiom 'Once in a blue moon'.",
-    "options": ["Very often", "Very rarely", "Every day", "At night"],
-    "correctIndex": 1
-  },
-  {
-    "question": "একটি ট্রেন ৭২ কিমি/ঘণ্টা বেগে চললে মিটার/সেকেন্ডে বেগ কত?",
-    "options": ["১৫ মি/সে", "১৮ মি/সে", "২০ মি/সে", "২৫ মি/সে"],
-    "correctIndex": 2
-  },
-  {
-    "question": "ভারতের জাতীয় সংগীতের রচয়িতা কে?",
-    "options": ["বঙ্কিমচন্দ্র চট্টোপাধ্যায়", "রবীন্দ্রনাথ ঠাকুর", "কাজী নজরুল ইসলাম", "দ্বিজেন্দ্রলাল রায়"],
-    "correctIndex": 1
-  },
-  {
-    "question": "Choose the correct sentence.",
-    "options": ["Each of the boys have a pen.", "Each of the boys has a pen.", "Each boys has a pen.", "Each of boys have a pen."],
-    "correctIndex": 1
-  },
-  {
-    "question": "একটি মূলধনের উপর ৫% বার্ষিক সরল সুদে ২ বছরে সুদ ২০০ টাকা হলে মূলধন কত?",
-    "options": ["১০০০ টাকা", "১৫০০ টাকা", "২০০০ টাকা", "২৫০০ টাকা"],
-    "correctIndex": 2
-  },
-  {
-    "question": "ভারতের জাতীয় ফুল কোনটি?",
-    "options": ["গোলাপ", "পদ্ম", "জবা", "সূর্যমুখী"],
-    "correctIndex": 1
-  },
-  {
-    "question": "Choose the antonym of 'Optimistic'.",
-    "options": ["Hopeful", "Positive", "Pessimistic", "Confident"],
-    "correctIndex": 2
-  },
-  {
-    "question": "যদি 3x + 5 = 26 হয়, তবে x-এর মান কত?",
-    "options": ["৫", "৬", "৭", "৮"],
-    "correctIndex": 2
-  },
-  {
-    "question": "ভারতের প্রথম উপগ্রহের নাম কী?",
-    "options": ["ভাস্কর", "আর্যভট্ট", "রোহিণী", "ইনস্যাট"],
-    "correctIndex": 1
-  },
-  {
-    "question": "Choose the correct spelling.",
-    "options": ["Privilege", "Privelege", "Priviledge", "Privilage"],
-    "correctIndex": 0
-  },
-  {
-    "question": "একটি নৌকার স্থির জলে বেগ ১০ কিমি/ঘণ্টা এবং স্রোতের বেগ ২ কিমি/ঘণ্টা। অনুকূলে বেগ কত?",
-    "options": ["৮ কিমি/ঘণ্টা", "১০ কিমি/ঘণ্টা", "১২ কিমি/ঘণ্টা", "১৪ কিমি/ঘণ্টা"],
-    "correctIndex": 2
-  },
-  {
-    "question": "ভারতের কোন শহরকে গোলাপি শহর বলা হয়?",
-    "options": ["উদয়পুর", "জয়পুর", "যোধপুর", "আগ্রা"],
-    "correctIndex": 1
-  },
-  {
-    "question": "Choose the synonym of 'Commence'.",
-    "options": ["Finish", "Begin", "Delay", "Stop"],
-    "correctIndex": 1
-  },
-  {
-    "question": "একটি ঘনকের বাহুর দৈর্ঘ্য ৫ সেমি হলে আয়তন কত?",
-    "options": ["২৫ ঘন সেমি", "৭৫ ঘন সেমি", "১০০ ঘন সেমি", "১২৫ ঘন সেমি"],
-    "correctIndex": 3
-  },
-  {
-    "question": "ভারতের সংবিধানে মৌলিক কর্তব্য কোন সংশোধনীর মাধ্যমে যুক্ত হয়?",
-    "options": ["৪২তম", "৪৪তম", "৫২তম", "৬১তম"],
-    "correctIndex": 0
-  },
-  {
-    "question": "Fill in the blank: Neither the teacher nor the students ___ present.",
-    "options": ["was", "were", "is", "has"],
-    "correctIndex": 1
-  },
-  {
-    "question": "একটি সংখ্যার ৪০% হলো ১৬০। সংখ্যাটি কত?",
-    "options": ["২০০", "৩০০", "৪০০", "৫০০"],
-    "correctIndex": 2
-  },
-  {
-    "question": "দামোদর নদীকে কী বলা হয়?",
-    "options": ["বাংলার দুঃখ", "বিহারের দুঃখ", "অসমের দুঃখ", "ওড়িশার দুঃখ"],
-    "correctIndex": 0
-  },
-  {
-    "question": "Choose the correct passive voice: 'They are repairing the road.'",
-    "options": ["The road is repaired by them.", "The road was repaired by them.", "The road is being repaired by them.", "The road has repaired by them."],
-    "correctIndex": 2
-  },
-  {
-    "question": "দুটি সংখ্যার গসাগু ৬ এবং লসাগু ৭২। একটি সংখ্যা ১৮ হলে অপরটি কত?",
-    "options": ["১২", "১৮", "২৪", "৩৬"],
-    "correctIndex": 2
-  },
-  {
-    "question": "ভারতের সর্বোচ্চ অসামরিক সম্মান কোনটি?",
-    "options": ["পদ্মশ্রী", "পদ্মভূষণ", "পদ্মবিভূষণ", "ভারতরত্ন"],
-    "correctIndex": 3
-  },
-  {
-    "question": "Choose the one-word substitution: 'A person who cannot read or write'.",
-    "options": ["Illiterate", "Innocent", "Immature", "Ineligible"],
-    "correctIndex": 0
-  },
-  {
-    "question": "একটি কাজ A একা ১০ দিনে এবং B একা ১৫ দিনে করতে পারে। একসঙ্গে কাজটি কত দিনে করবে?",
-    "options": ["৫ দিন", "৬ দিন", "৮ দিন", "১২ দিন"],
-    "correctIndex": 1
-  },
-  {
-    "question": "ভারতের সংসদের উচ্চকক্ষের নাম কী?",
-    "options": ["লোকসভা", "রাজ্যসভা", "বিধানসভা", "বিধান পরিষদ"],
-    "correctIndex": 1
-  },
-  {
-    "question": "Choose the antonym of 'Transparent'.",
-    "options": ["Clear", "Opaque", "Visible", "Bright"],
-    "correctIndex": 1
-  },
-  {
-    "question": "একটি আয়তক্ষেত্রের ক্ষেত্রফল ৯৬ বর্গ সেমি এবং দৈর্ঘ্য ১২ সেমি হলে প্রস্থ কত?",
-    "options": ["৬ সেমি", "৮ সেমি", "১০ সেমি", "১২ সেমি"],
-    "correctIndex": 1
-  },
-  {
-    "question": "কাজিরাঙা জাতীয় উদ্যান কোন প্রাণীর জন্য বিশেষভাবে বিখ্যাত?",
-    "options": ["এশীয় সিংহ", "একশৃঙ্গ গণ্ডার", "বাঘ", "হাতি"],
-    "correctIndex": 1
-  },
-  {
-    "question": "Choose the correct form: If I ___ rich, I would help the poor.",
-    "options": ["am", "was", "were", "will be"],
-    "correctIndex": 2
-  },
-  {
-    "question": "একটি সংখ্যার বর্গ ৭২৯ হলে সংখ্যাটির ধনাত্মক বর্গমূল কত?",
-    "options": ["২৩", "২৫", "২৭", "২৯"],
-    "correctIndex": 2
-  },
-  {
-    "question": "ভারতের কোন নদীকে দক্ষিণ ভারতের গঙ্গা বলা হয়?",
-    "options": ["কৃষ্ণা", "কাবেরী", "গোদাবরী", "তুঙ্গভদ্রা"],
-    "correctIndex": 2
-  },
-  {
-    "question": "Choose the correct plural form of 'Analysis'.",
-    "options": ["Analysises", "Analyses", "Analysis", "Analys"],
-    "correctIndex": 1
-  },
-  {
-    "question": "একটি পণ্যের বিক্রয়মূল্য ৭২০ টাকা এবং লাভ ২০% হলে ক্রয়মূল্য কত?",
-    "options": ["৫৫০ টাকা", "৬০০ টাকা", "৬২০ টাকা", "৬৫০ টাকা"],
-    "correctIndex": 1
-  },
-  {
-    "question": "ভারতের কোন রাজ্যে চিলিকা হ্রদ অবস্থিত?",
-    "options": ["অন্ধ্রপ্রদেশ", "ওড়িশা", "পশ্চিমবঙ্গ", "কেরালা"],
-    "correctIndex": 1
-  },
-  {
-    "question": "Choose the meaning of the idiom 'To spill the beans'.",
-    "options": ["To cook food", "To reveal a secret", "To waste money", "To make a mistake"],
-    "correctIndex": 1
-  },
-  {
-    "question": "একটি সমকোণী ত্রিভুজের ভূমি ৬ সেমি ও লম্ব ৮ সেমি হলে অতিভুজ কত?",
-    "options": ["৯ সেমি", "১০ সেমি", "১২ সেমি", "১৪ সেমি"],
-    "correctIndex": 1
-  },
-  {
-    "question": "ভারতের প্রথম মহিলা রাজ্যপাল কে ছিলেন?",
-    "options": ["ইন্দিরা গান্ধী", "সরোজিনী নাইডু", "বিজয়লক্ষ্মী পণ্ডিত", "সুচেতা কৃপালনী"],
-    "correctIndex": 1
-  },
-  {
-    "question": "Choose the correct preposition: He is senior ___ me.",
-    "options": ["than", "from", "to", "with"],
-    "correctIndex": 2
-  },
-  {
-    "question": "একটি সংখ্যাকে ৮ দিয়ে ভাগ করলে ভাগফল ১২ এবং ভাগশেষ ৫ হয়। সংখ্যাটি কত?",
-    "options": ["৯১", "৯৬", "১০১", "১০৫"],
-    "correctIndex": 2
-  },
-  {
-    "question": "ভারতের কোন রাজ্যে জিম করবেট জাতীয় উদ্যান অবস্থিত?",
-    "options": ["হিমাচল প্রদেশ", "উত্তরাখণ্ড", "উত্তরপ্রদেশ", "সিকিম"],
-    "correctIndex": 1
-  },
-  {
-    "question": "Choose the synonym of 'Obsolete'.",
-    "options": ["Modern", "Outdated", "Current", "Recent"],
-    "correctIndex": 1
-  },
-  {
-    "question": "একটি ঘড়িতে ৩টা বাজলে ঘণ্টা ও মিনিটের কাঁটার মধ্যে কোণ কত?",
-    "options": ["৬০°", "৭৫°", "৯০°", "১২০°"],
-    "correctIndex": 2
-  },
-  {
-    "question": "ভারতের কোন সংশোধনীর মাধ্যমে ভোটদানের ন্যূনতম বয়স ২১ থেকে ১৮ করা হয়?",
-    "options": ["৪২তম", "৪৪তম", "৫২তম", "৬১তম"],
-    "correctIndex": 3
-  },
-  {
-    "question": "Choose the antonym of 'Reluctant'.",
-    "options": ["Unwilling", "Hesitant", "Willing", "Doubtful"],
-    "correctIndex": 2
-  },
-  {
-    "question": "একটি সংখ্যার ১৫% হলো ৪৫। সংখ্যাটির ৮০% কত?",
-    "options": ["১৮০", "২০০", "২৪০", "৩০০"],
-    "correctIndex": 2
-  },
-  {
-    "question": "ভারতের কোন রাজ্যে হর্নবিল উৎসব পালিত হয়?",
-    "options": ["মণিপুর", "নাগাল্যান্ড", "মিজোরাম", "ত্রিপুরা"],
-    "correctIndex": 1
-  },
-  {
-    "question": "Choose the correct indirect speech: She said, 'I have finished my work.'",
-    "options": ["She said that she has finished her work.", "She said that she had finished her work.", "She said that I had finished my work.", "She told that she finished her work."],
-    "correctIndex": 1
-  },
-  {
-    "question": "একটি বর্গক্ষেত্রের কর্ণ ১০√২ সেমি হলে বাহুর দৈর্ঘ্য কত?",
-    "options": ["৫ সেমি", "১০ সেমি", "১৫ সেমি", "২০ সেমি"],
-    "correctIndex": 1
-  },
-  {
-    "question": "ভারতের জাতীয় ক্যালেন্ডার কোন অব্দের উপর ভিত্তি করে তৈরি?",
-    "options": ["বিক্রম সংবৎ", "শকাব্দ", "বাংলা সন", "হিজরি সন"],
-    "correctIndex": 1
-  },
-  {
-    "question": "Choose the correct sentence.",
-    "options": ["He does not knows me.", "He do not know me.", "He does not know me.", "He did not knows me."],
-    "correctIndex": 2
-  },
-  {
-    "question": "একটি ট্রেন ১৮০ মিটার দীর্ঘ এবং ঘণ্টায় ৫৪ কিমি বেগে চলছে। একটি খুঁটি অতিক্রম করতে কত সময় লাগবে?",
-    "options": ["১০ সেকেন্ড", "১২ সেকেন্ড", "১৫ সেকেন্ড", "১৮ সেকেন্ড"],
-    "correctIndex": 1
-  },
-  {
-    "question": "ভারতের কোন শহরকে ভারতের সিলিকন ভ্যালি বলা হয়?",
-    "options": ["হায়দরাবাদ", "পুনে", "বেঙ্গালুরু", "চেন্নাই"],
-    "correctIndex": 2
-  },
-  {
-    "question": "Choose the antonym of 'Artificial'.",
-    "options": ["Synthetic", "False", "Natural", "Unreal"],
-    "correctIndex": 2
-  },
-  {
-    "question": "৫, ১০, ১৫, ২০ ও ২৫-এর গড় কত?",
-    "options": ["১০", "১২", "১৫", "২০"],
-    "correctIndex": 2
-  },
-  {
-    "question": "ভারতের কোন নদীকে বিহারের দুঃখ বলা হয়?",
-    "options": ["গঙ্গা", "কোসি", "গণ্ডক", "সোন"],
-    "correctIndex": 1
-  },
-  {
-    "question": "Choose the correct passive voice: 'Who wrote this letter?'",
-    "options": ["By whom was this letter written?", "Who was written this letter?", "By whom this letter wrote?", "This letter is written by who?"],
-    "correctIndex": 0
-  },
-  {
-    "question": "একটি পণ্যের ক্রয়মূল্য ৮০০ টাকা। ১৫% ক্ষতিতে বিক্রি করলে বিক্রয়মূল্য কত?",
-    "options": ["৬৬০ টাকা", "৬৮০ টাকা", "৭০০ টাকা", "৭২০ টাকা"],
-    "correctIndex": 1
-  },
-  {
-    "question": "ভারতের কোন রাজ্যে দুধওয়া জাতীয় উদ্যান অবস্থিত?",
-    "options": ["উত্তরপ্রদেশ", "মধ্যপ্রদেশ", "রাজস্থান", "বিহার"],
-    "correctIndex": 0
-  },
-  {
-    "question": "Choose the synonym of 'Hostile'.",
-    "options": ["Friendly", "Unfriendly", "Helpful", "Gentle"],
-    "correctIndex": 1
-  },
-  {
-    "question": "একটি সংখ্যার ২৫% বৃদ্ধি করলে ২৫০ হয়। মূল সংখ্যাটি কত?",
-    "options": ["১৮০", "২০০", "২২০", "২৪০"],
-    "correctIndex": 1
-  },
-  {
-    "question": "ভারতের প্রথম গভর্নর জেনারেল কে ছিলেন?",
-    "options": ["লর্ড কার্জন", "ওয়ারেন হেস্টিংস", "লর্ড উইলিয়াম বেন্টিঙ্ক", "লর্ড ডালহৌসি"],
-    "correctIndex": 1
-  },
-  {
-    "question": "Choose the correct article: He is ___ European.",
-    "options": ["a", "an", "the", "no article"],
-    "correctIndex": 0
-  },
-  {
-    "question": "একটি আয়তক্ষেত্রের দৈর্ঘ্য প্রস্থের দ্বিগুণ। পরিসীমা ৩৬ সেমি হলে ক্ষেত্রফল কত?",
-    "options": ["৪০ বর্গ সেমি", "৫০ বর্গ সেমি", "৬০ বর্গ সেমি", "৭২ বর্গ সেমি"],
-    "correctIndex": 2
-  },
-  {
-    "question": "ভারতের কোন রাজ্যের মধ্য দিয়ে কর্কটক্রান্তি রেখা অতিক্রম করেছে?",
-    "options": ["কেরালা", "পাঞ্জাব", "পশ্চিমবঙ্গ", "তামিলনাড়ু"],
-    "correctIndex": 2
-  },
-  {
-    "question": "Choose the correct form of the verb: The train ___ before we reached the station.",
-    "options": ["left", "has left", "had left", "leaves"],
-    "correctIndex": 2
-  },
-  {
-    "question": "একটি সংখ্যার ৩০% হলো ৯০। সংখ্যাটির ৫০% কত?",
-    "options": ["১০০", "১২০", "১৫০", "১৮০"],
-    "correctIndex": 2
-  },
-  {
-    "question": "ভারতের কোন আন্দোলন ১৯৪২ সালে শুরু হয়?",
-    "options": ["অসহযোগ আন্দোলন", "আইন অমান্য আন্দোলন", "ভারত ছাড়ো আন্দোলন", "খিলাফত আন্দোলন"],
-    "correctIndex": 2
-  },
-  {
-    "question": "Choose the correct meaning of 'A blessing in disguise'.",
-    "options": ["An obvious problem", "Something good that seemed bad at first", "A costly mistake", "A false promise"],
-    "correctIndex": 1
-  },
-  {
-    "question": "একটি বৃত্তের পরিধি ৪৪ সেমি হলে ব্যাস কত? (π = ২২/৭)",
-    "options": ["৭ সেমি", "১৪ সেমি", "২১ সেমি", "২৮ সেমি"],
-    "correctIndex": 1
-  }
-]
+"title": "PSC Clerkship Full Length Mock Test 1",
+"duration": 5400,
+"questions":  [
+    {
+      "question": "ভারতের সংবিধান কবে কার্যকর হয়?",
+      "options": ["১৫ আগস্ট ১৯৪৭", "২৬ নভেম্বর ১৯৪৯", "২৬ জানুয়ারি ১৯৫০", "২ অক্টোবর ১৯৫০"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Choose the synonym of 'Benevolent'.",
+      "options": ["Cruel", "Kind", "Selfish", "Rude"],
+      "correctIndex": 1
+    },
+    {
+      "question": "একটি সংখ্যার ২০% হলো ৫০। সংখ্যাটি কত?",
+      "options": ["২০০", "২৫০", "৩০০", "৩৫০"],
+      "correctIndex": 1
+    },
+    {
+      "question": "পলাশীর যুদ্ধ কত সালে সংঘটিত হয়?",
+      "options": ["১৭৫৭", "১৭৬৪", "১৭৭২", "১৭৮৪"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Fill in the blank: She is interested ___ music.",
+      "options": ["on", "at", "in", "for"],
+      "correctIndex": 2
+    },
+    {
+      "question": "১২, ১৮ ও ২৪-এর গসাগু কত?",
+      "options": ["৩", "৬", "১২", "১৮"],
+      "correctIndex": 1
+    },
+    {
+      "question": "ভারতের প্রথম রাষ্ট্রপতি কে ছিলেন?",
+      "options": ["জওহরলাল নেহরু", "ড. রাজেন্দ্র প্রসাদ", "ড. সর্বপল্লী রাধাকৃষ্ণন", "জাকির হুসেন"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Choose the antonym of 'Ancient'.",
+      "options": ["Old", "Antique", "Modern", "Historic"],
+      "correctIndex": 2
+    },
+    {
+      "question": "একটি ট্রেন ঘণ্টায় ৬০ কিমি বেগে ৩ ঘণ্টায় কত দূরত্ব অতিক্রম করবে?",
+      "options": ["১২০ কিমি", "১৫০ কিমি", "১৮০ কিমি", "২০০ কিমি"],
+      "correctIndex": 2
+    },
+    {
+      "question": "সুন্দরবন কোন ধরনের অরণ্যের জন্য বিখ্যাত?",
+      "options": ["সরলবর্গীয়", "ম্যানগ্রোভ", "চিরহরিৎ", "পর্বত অরণ্য"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Choose the correct spelling.",
+      "options": ["Separate", "Seperate", "Seperete", "Separete"],
+      "correctIndex": 0
+    },
+    {
+      "question": "একটি পণ্যের ক্রয়মূল্য ৪০০ টাকা এবং বিক্রয়মূল্য ৫০০ টাকা হলে লাভের হার কত?",
+      "options": ["১০%", "১৫%", "২০%", "২৫%"],
+      "correctIndex": 3
+    },
+    {
+      "question": "ভারতের সংবিধানের খসড়া কমিটির সভাপতি কে ছিলেন?",
+      "options": ["রাজেন্দ্র প্রসাদ", "বি. আর. আম্বেদকর", "জওহরলাল নেহরু", "সর্দার প্যাটেল"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Choose the correct passive voice: 'The teacher praised the student.'",
+      "options": ["The student praised the teacher.", "The student was praised by the teacher.", "The student is praised by the teacher.", "The teacher was praised by the student."],
+      "correctIndex": 1
+    },
+    {
+      "question": "একটি বর্গক্ষেত্রের বাহু ৯ সেমি হলে ক্ষেত্রফল কত?",
+      "options": ["১৮ বর্গ সেমি", "৩৬ বর্গ সেমি", "৭২ বর্গ সেমি", "৮১ বর্গ সেমি"],
+      "correctIndex": 3
+    },
+    {
+      "question": "ভারতের জাতীয় জলজ প্রাণী কোনটি?",
+      "options": ["নীল তিমি", "গঙ্গার ডলফিন", "কুমির", "কচ্ছপ"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Choose the one-word substitution: 'A person who writes plays'.",
+      "options": ["Novelist", "Poet", "Dramatist", "Journalist"],
+      "correctIndex": 2
+    },
+    {
+      "question": "৫ জন শ্রমিক একটি কাজ ১২ দিনে সম্পন্ন করলে ১০ জন শ্রমিক কাজটি কত দিনে করবে?",
+      "options": ["৪ দিন", "৫ দিন", "৬ দিন", "৮ দিন"],
+      "correctIndex": 2
+    },
+    {
+      "question": "ভারতের বৃহত্তম রাজ্য আয়তনের দিক থেকে কোনটি?",
+      "options": ["মধ্যপ্রদেশ", "মহারাষ্ট্র", "রাজস্থান", "উত্তরপ্রদেশ"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Fill in the blank: He has been waiting ___ two hours.",
+      "options": ["since", "for", "from", "by"],
+      "correctIndex": 1
+    },
+    {
+      "question": "দুটি সংখ্যার অনুপাত ২:৩ এবং যোগফল ৫০। ছোট সংখ্যাটি কত?",
+      "options": ["১৫", "২০", "২৫", "৩০"],
+      "correctIndex": 1
+    },
+    {
+      "question": "ভারতের নির্বাচন কমিশন কোন ধরনের সংস্থা?",
+      "options": ["বেসরকারি সংস্থা", "সাংবিধানিক সংস্থা", "আর্থিক সংস্থা", "বিধিবদ্ধ সংস্থা"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Choose the synonym of 'Diligent'.",
+      "options": ["Lazy", "Hardworking", "Careless", "Weak"],
+      "correctIndex": 1
+    },
+    {
+      "question": "একটি বৃত্তের ব্যাসার্ধ ৭ সেমি হলে ক্ষেত্রফল কত? (π = ২২/৭)",
+      "options": ["৪৪ বর্গ সেমি", "৮৮ বর্গ সেমি", "১৫৪ বর্গ সেমি", "৩০৮ বর্গ সেমি"],
+      "correctIndex": 2
+    },
+    {
+      "question": "ভারতের জাতীয় কংগ্রেস কত সালে প্রতিষ্ঠিত হয়?",
+      "options": ["১৮৫৭", "১৮৮৫", "১৯০৫", "১৯১৯"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Choose the correct plural form of 'Phenomenon'.",
+      "options": ["Phenomenons", "Phenomena", "Phenomenas", "Phenomenon"],
+      "correctIndex": 1
+    },
+    {
+      "question": "একটি সংখ্যার ৩/৪ অংশ ৬০ হলে সংখ্যাটি কত?",
+      "options": ["৭০", "৭৫", "৮০", "৯০"],
+      "correctIndex": 2
+    },
+    {
+      "question": "কাজিরাঙা জাতীয় উদ্যান কোন রাজ্যে অবস্থিত?",
+      "options": ["পশ্চিমবঙ্গ", "অসম", "মেঘালয়", "ত্রিপুরা"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Choose the antonym of 'Generous'.",
+      "options": ["Kind", "Helpful", "Stingy", "Liberal"],
+      "correctIndex": 2
+    },
+    {
+      "question": "একটি পণ্যের চিহ্নিত মূল্য ১০০০ টাকা। ১৫% ছাড় দিলে বিক্রয়মূল্য কত?",
+      "options": ["৮০০ টাকা", "৮২৫ টাকা", "৮৫০ টাকা", "৯০০ টাকা"],
+      "correctIndex": 2
+    },
+    {
+      "question": "ভারতের প্রথম মহিলা প্রধানমন্ত্রী কে ছিলেন?",
+      "options": ["সরোজিনী নাইডু", "প্রতিভা পাটিল", "ইন্দিরা গান্ধী", "সুচেতা কৃপালনী"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Choose the correct indirect speech: He said, 'I am tired.'",
+      "options": ["He said that I am tired.", "He said that he was tired.", "He says that he was tired.", "He told that he is tired."],
+      "correctIndex": 1
+    },
+    {
+      "question": "২০০ জুল কাজ ১০ সেকেন্ডে সম্পন্ন হলে ক্ষমতা কত?",
+      "options": ["১০ ওয়াট", "২০ ওয়াট", "৫০ ওয়াট", "১০০ ওয়াট"],
+      "correctIndex": 1
+    },
+    {
+      "question": "ভারতের রিজার্ভ ব্যাংক কত সালে প্রতিষ্ঠিত হয়?",
+      "options": ["১৯২১", "১৯৩৫", "১৯৪৭", "১৯৫০"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Choose the correct article: He is ___ honest person.",
+      "options": ["a", "an", "the", "no article"],
+      "correctIndex": 1
+    },
+    {
+      "question": "একটি আয়তক্ষেত্রের দৈর্ঘ্য ১২ সেমি এবং প্রস্থ ৮ সেমি হলে পরিসীমা কত?",
+      "options": ["২০ সেমি", "৩২ সেমি", "৪০ সেমি", "৯৬ সেমি"],
+      "correctIndex": 2
+    },
+    {
+      "question": "ভারতের সংবিধানে অস্পৃশ্যতা বিলোপের কথা কোন অনুচ্ছেদে বলা হয়েছে?",
+      "options": ["অনুচ্ছেদ ১৪", "অনুচ্ছেদ ১৭", "অনুচ্ছেদ ১৯", "অনুচ্ছেদ ২১"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Choose the meaning of the idiom 'Once in a blue moon'.",
+      "options": ["Very often", "Very rarely", "Every day", "At night"],
+      "correctIndex": 1
+    },
+    {
+      "question": "একটি ট্রেন ৭২ কিমি/ঘণ্টা বেগে চললে মিটার/সেকেন্ডে বেগ কত?",
+      "options": ["১৫ মি/সে", "১৮ মি/সে", "২০ মি/সে", "২৫ মি/সে"],
+      "correctIndex": 2
+    },
+    {
+      "question": "ভারতের জাতীয় সংগীতের রচয়িতা কে?",
+      "options": ["বঙ্কিমচন্দ্র চট্টোপাধ্যায়", "রবীন্দ্রনাথ ঠাকুর", "কাজী নজরুল ইসলাম", "দ্বিজেন্দ্রলাল রায়"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Choose the correct sentence.",
+      "options": ["Each of the boys have a pen.", "Each of the boys has a pen.", "Each boys has a pen.", "Each of boys have a pen."],
+      "correctIndex": 1
+    },
+    {
+      "question": "একটি মূলধনের উপর ৫% বার্ষিক সরল সুদে ২ বছরে সুদ ২০০ টাকা হলে মূলধন কত?",
+      "options": ["১০০০ টাকা", "১৫০০ টাকা", "২০০০ টাকা", "২৫০০ টাকা"],
+      "correctIndex": 2
+    },
+    {
+      "question": "ভারতের জাতীয় ফুল কোনটি?",
+      "options": ["গোলাপ", "পদ্ম", "জবা", "সূর্যমুখী"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Choose the antonym of 'Optimistic'.",
+      "options": ["Hopeful", "Positive", "Pessimistic", "Confident"],
+      "correctIndex": 2
+    },
+    {
+      "question": "যদি 3x + 5 = 26 হয়, তবে x-এর মান কত?",
+      "options": ["৫", "৬", "৭", "৮"],
+      "correctIndex": 2
+    },
+    {
+      "question": "ভারতের প্রথম উপগ্রহের নাম কী?",
+      "options": ["ভাস্কর", "আর্যভট্ট", "রোহিণী", "ইনস্যাট"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Choose the correct spelling.",
+      "options": ["Privilege", "Privelege", "Priviledge", "Privilage"],
+      "correctIndex": 0
+    },
+    {
+      "question": "একটি নৌকার স্থির জলে বেগ ১০ কিমি/ঘণ্টা এবং স্রোতের বেগ ২ কিমি/ঘণ্টা। অনুকূলে বেগ কত?",
+      "options": ["৮ কিমি/ঘণ্টা", "১০ কিমি/ঘণ্টা", "১২ কিমি/ঘণ্টা", "১৪ কিমি/ঘণ্টা"],
+      "correctIndex": 2
+    },
+    {
+      "question": "ভারতের কোন শহরকে গোলাপি শহর বলা হয়?",
+      "options": ["উদয়পুর", "জয়পুর", "যোধপুর", "আগ্রা"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Choose the synonym of 'Commence'.",
+      "options": ["Finish", "Begin", "Delay", "Stop"],
+      "correctIndex": 1
+    },
+    {
+      "question": "একটি ঘনকের বাহুর দৈর্ঘ্য ৫ সেমি হলে আয়তন কত?",
+      "options": ["২৫ ঘন সেমি", "৭৫ ঘন সেমি", "১০০ ঘন সেমি", "১২৫ ঘন সেমি"],
+      "correctIndex": 3
+    },
+    {
+      "question": "ভারতের সংবিধানে মৌলিক কর্তব্য কোন সংশোধনীর মাধ্যমে যুক্ত হয়?",
+      "options": ["৪২তম", "৪৪তম", "৫২তম", "৬১তম"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Fill in the blank: Neither the teacher nor the students ___ present.",
+      "options": ["was", "were", "is", "has"],
+      "correctIndex": 1
+    },
+    {
+      "question": "একটি সংখ্যার ৪০% হলো ১৬০। সংখ্যাটি কত?",
+      "options": ["২০০", "৩০০", "৪০০", "৫০০"],
+      "correctIndex": 2
+    },
+    {
+      "question": "দামোদর নদীকে কী বলা হয়?",
+      "options": ["বাংলার দুঃখ", "বিহারের দুঃখ", "অসমের দুঃখ", "ওড়িশার দুঃখ"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Choose the correct passive voice: 'They are repairing the road.'",
+      "options": ["The road is repaired by them.", "The road was repaired by them.", "The road is being repaired by them.", "The road has repaired by them."],
+      "correctIndex": 2
+    },
+    {
+      "question": "দুটি সংখ্যার গসাগু ৬ এবং লসাগু ৭২। একটি সংখ্যা ১৮ হলে অপরটি কত?",
+      "options": ["১২", "১৮", "২৪", "৩৬"],
+      "correctIndex": 2
+    },
+    {
+      "question": "ভারতের সর্বোচ্চ অসামরিক সম্মান কোনটি?",
+      "options": ["পদ্মশ্রী", "পদ্মভূষণ", "পদ্মবিভূষণ", "ভারতরত্ন"],
+      "correctIndex": 3
+    },
+    {
+      "question": "Choose the one-word substitution: 'A person who cannot read or write'.",
+      "options": ["Illiterate", "Innocent", "Immature", "Ineligible"],
+      "correctIndex": 0
+    },
+    {
+      "question": "একটি কাজ A একা ১০ দিনে এবং B একা ১৫ দিনে করতে পারে। একসঙ্গে কাজটি কত দিনে করবে?",
+      "options": ["৫ দিন", "৬ দিন", "৮ দিন", "১২ দিন"],
+      "correctIndex": 1
+    },
+    {
+      "question": "ভারতের সংসদের উচ্চকক্ষের নাম কী?",
+      "options": ["লোকসভা", "রাজ্যসভা", "বিধানসভা", "বিধান পরিষদ"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Choose the antonym of 'Transparent'.",
+      "options": ["Clear", "Opaque", "Visible", "Bright"],
+      "correctIndex": 1
+    },
+    {
+      "question": "একটি আয়তক্ষেত্রের ক্ষেত্রফল ৯৬ বর্গ সেমি এবং দৈর্ঘ্য ১২ সেমি হলে প্রস্থ কত?",
+      "options": ["৬ সেমি", "৮ সেমি", "১০ সেমি", "১২ সেমি"],
+      "correctIndex": 1
+    },
+    {
+      "question": "কাজিরাঙা জাতীয় উদ্যান কোন প্রাণীর জন্য বিশেষভাবে বিখ্যাত?",
+      "options": ["এশীয় সিংহ", "একশৃঙ্গ গণ্ডার", "বাঘ", "হাতি"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Choose the correct form: If I ___ rich, I would help the poor.",
+      "options": ["am", "was", "were", "will be"],
+      "correctIndex": 2
+    },
+    {
+      "question": "একটি সংখ্যার বর্গ ৭২৯ হলে সংখ্যাটির ধনাত্মক বর্গমূল কত?",
+      "options": ["২৩", "২৫", "২৭", "২৯"],
+      "correctIndex": 2
+    },
+    {
+      "question": "ভারতের কোন নদীকে দক্ষিণ ভারতের গঙ্গা বলা হয়?",
+      "options": ["কৃষ্ণা", "কাবেরী", "গোদাবরী", "তুঙ্গভদ্রা"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Choose the correct plural form of 'Analysis'.",
+      "options": ["Analysises", "Analyses", "Analysis", "Analys"],
+      "correctIndex": 1
+    },
+    {
+      "question": "একটি পণ্যের বিক্রয়মূল্য ৭২০ টাকা এবং লাভ ২০% হলে ক্রয়মূল্য কত?",
+      "options": ["৫৫০ টাকা", "৬০০ টাকা", "৬২০ টাকা", "৬৫০ টাকা"],
+      "correctIndex": 1
+    },
+    {
+      "question": "ভারতের কোন রাজ্যে চিলিকা হ্রদ অবস্থিত?",
+      "options": ["অন্ধ্রপ্রদেশ", "ওড়িশা", "পশ্চিমবঙ্গ", "কেরালা"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Choose the meaning of the idiom 'To spill the beans'.",
+      "options": ["To cook food", "To reveal a secret", "To waste money", "To make a mistake"],
+      "correctIndex": 1
+    },
+    {
+      "question": "একটি সমকোণী ত্রিভুজের ভূমি ৬ সেমি ও লম্ব ৮ সেমি হলে অতিভুজ কত?",
+      "options": ["৯ সেমি", "১০ সেমি", "১২ সেমি", "১৪ সেমি"],
+      "correctIndex": 1
+    },
+    {
+      "question": "ভারতের প্রথম মহিলা রাজ্যপাল কে ছিলেন?",
+      "options": ["ইন্দিরা গান্ধী", "সরোজিনী নাইডু", "বিজয়লক্ষ্মী পণ্ডিত", "সুচেতা কৃপালনী"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Choose the correct preposition: He is senior ___ me.",
+      "options": ["than", "from", "to", "with"],
+      "correctIndex": 2
+    },
+    {
+      "question": "একটি সংখ্যাকে ৮ দিয়ে ভাগ করলে ভাগফল ১২ এবং ভাগশেষ ৫ হয়। সংখ্যাটি কত?",
+      "options": ["৯১", "৯৬", "১০১", "১০৫"],
+      "correctIndex": 2
+    },
+    {
+      "question": "ভারতের কোন রাজ্যে জিম করবেট জাতীয় উদ্যান অবস্থিত?",
+      "options": ["হিমাচল প্রদেশ", "উত্তরাখণ্ড", "উত্তরপ্রদেশ", "সিকিম"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Choose the synonym of 'Obsolete'.",
+      "options": ["Modern", "Outdated", "Current", "Recent"],
+      "correctIndex": 1
+    },
+    {
+      "question": "একটি ঘড়িতে ৩টা বাজলে ঘণ্টা ও মিনিটের কাঁটার মধ্যে কোণ কত?",
+      "options": ["৬০°", "৭৫°", "৯০°", "১২০°"],
+      "correctIndex": 2
+    },
+    {
+      "question": "ভারতের কোন সংশোধনীর মাধ্যমে ভোটদানের ন্যূনতম বয়স ২১ থেকে ১৮ করা হয়?",
+      "options": ["৪২তম", "৪৪তম", "৫২তম", "৬১তম"],
+      "correctIndex": 3
+    },
+    {
+      "question": "Choose the antonym of 'Reluctant'.",
+      "options": ["Unwilling", "Hesitant", "Willing", "Doubtful"],
+      "correctIndex": 2
+    },
+    {
+      "question": "একটি সংখ্যার ১৫% হলো ৪৫। সংখ্যাটির ৮০% কত?",
+      "options": ["১৮০", "২০০", "২৪০", "৩০০"],
+      "correctIndex": 2
+    },
+    {
+      "question": "ভারতের কোন রাজ্যে হর্নবিল উৎসব পালিত হয়?",
+      "options": ["মণিপুর", "নাগাল্যান্ড", "মিজোরাম", "ত্রিপুরা"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Choose the correct indirect speech: She said, 'I have finished my work.'",
+      "options": ["She said that she has finished her work.", "She said that she had finished her work.", "She said that I had finished my work.", "She told that she finished her work."],
+      "correctIndex": 1
+    },
+    {
+      "question": "একটি বর্গক্ষেত্রের কর্ণ ১০√২ সেমি হলে বাহুর দৈর্ঘ্য কত?",
+      "options": ["৫ সেমি", "১০ সেমি", "১৫ সেমি", "২০ সেমি"],
+      "correctIndex": 1
+    },
+    {
+      "question": "ভারতের জাতীয় ক্যালেন্ডার কোন অব্দের উপর ভিত্তি করে তৈরি?",
+      "options": ["বিক্রম সংবৎ", "শকাব্দ", "বাংলা সন", "হিজরি সন"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Choose the correct sentence.",
+      "options": ["He does not knows me.", "He do not know me.", "He does not know me.", "He did not knows me."],
+      "correctIndex": 2
+    },
+    {
+      "question": "একটি ট্রেন ১৮০ মিটার দীর্ঘ এবং ঘণ্টায় ৫৪ কিমি বেগে চলছে। একটি খুঁটি অতিক্রম করতে কত সময় লাগবে?",
+      "options": ["১০ সেকেন্ড", "১২ সেকেন্ড", "১৫ সেকেন্ড", "১৮ সেকেন্ড"],
+      "correctIndex": 1
+    },
+    {
+      "question": "ভারতের কোন শহরকে ভারতের সিলিকন ভ্যালি বলা হয়?",
+      "options": ["হায়দরাবাদ", "পুনে", "বেঙ্গালুরু", "চেন্নাই"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Choose the antonym of 'Artificial'.",
+      "options": ["Synthetic", "False", "Natural", "Unreal"],
+      "correctIndex": 2
+    },
+    {
+      "question": "৫, ১০, ১৫, ২০ ও ২৫-এর গড় কত?",
+      "options": ["১০", "১২", "১৫", "২০"],
+      "correctIndex": 2
+    },
+    {
+      "question": "ভারতের কোন নদীকে বিহারের দুঃখ বলা হয়?",
+      "options": ["গঙ্গা", "কোসি", "গণ্ডক", "সোন"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Choose the correct passive voice: 'Who wrote this letter?'",
+      "options": ["By whom was this letter written?", "Who was written this letter?", "By whom this letter wrote?", "This letter is written by who?"],
+      "correctIndex": 0
+    },
+    {
+      "question": "একটি পণ্যের ক্রয়মূল্য ৮০০ টাকা। ১৫% ক্ষতিতে বিক্রি করলে বিক্রয়মূল্য কত?",
+      "options": ["৬৬০ টাকা", "৬৮০ টাকা", "৭০০ টাকা", "৭২০ টাকা"],
+      "correctIndex": 1
+    },
+    {
+      "question": "ভারতের কোন রাজ্যে দুধওয়া জাতীয় উদ্যান অবস্থিত?",
+      "options": ["উত্তরপ্রদেশ", "মধ্যপ্রদেশ", "রাজস্থান", "বিহার"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Choose the synonym of 'Hostile'.",
+      "options": ["Friendly", "Unfriendly", "Helpful", "Gentle"],
+      "correctIndex": 1
+    },
+    {
+      "question": "একটি সংখ্যার ২৫% বৃদ্ধি করলে ২৫০ হয়। মূল সংখ্যাটি কত?",
+      "options": ["১৮০", "২০০", "২২০", "২৪০"],
+      "correctIndex": 1
+    },
+    {
+      "question": "ভারতের প্রথম গভর্নর জেনারেল কে ছিলেন?",
+      "options": ["লর্ড কার্জন", "ওয়ারেন হেস্টিংস", "লর্ড উইলিয়াম বেন্টিঙ্ক", "লর্ড ডালহৌসি"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Choose the correct article: He is ___ European.",
+      "options": ["a", "an", "the", "no article"],
+      "correctIndex": 0
+    },
+    {
+      "question": "একটি আয়তক্ষেত্রের দৈর্ঘ্য প্রস্থের দ্বিগুণ। পরিসীমা ৩৬ সেমি হলে ক্ষেত্রফল কত?",
+      "options": ["৪০ বর্গ সেমি", "৫০ বর্গ সেমি", "৬০ বর্গ সেমি", "৭২ বর্গ সেমি"],
+      "correctIndex": 2
+    },
+    {
+      "question": "ভারতের কোন রাজ্যের মধ্য দিয়ে কর্কটক্রান্তি রেখা অতিক্রম করেছে?",
+      "options": ["কেরালা", "পাঞ্জাব", "পশ্চিমবঙ্গ", "তামিলনাড়ু"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Choose the correct form of the verb: The train ___ before we reached the station.",
+      "options": ["left", "has left", "had left", "leaves"],
+      "correctIndex": 2
+    },
+    {
+      "question": "একটি সংখ্যার ৩০% হলো ৯০। সংখ্যাটির ৫০% কত?",
+      "options": ["১০০", "১২০", "১৫০", "১৮০"],
+      "correctIndex": 2
+    },
+    {
+      "question": "ভারতের কোন আন্দোলন ১৯৪২ সালে শুরু হয়?",
+      "options": ["অসহযোগ আন্দোলন", "আইন অমান্য আন্দোলন", "ভারত ছাড়ো আন্দোলন", "খিলাফত আন্দোলন"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Choose the correct meaning of 'A blessing in disguise'.",
+      "options": ["An obvious problem", "Something good that seemed bad at first", "A costly mistake", "A false promise"],
+      "correctIndex": 1
+    },
+    {
+      "question": "একটি বৃত্তের পরিধি ৪৪ সেমি হলে ব্যাস কত? (π = ২২/৭)",
+      "options": ["৭ সেমি", "১৪ সেমি", "২১ সেমি", "২৮ সেমি"],
+      "correctIndex": 1
+    }
+  ]
