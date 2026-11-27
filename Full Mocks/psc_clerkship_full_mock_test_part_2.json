@@ -1,0 +1,1006 @@
+{
+  "title": "PSC Clerkship Full Mock Test Part 2",
+  "duration": 5400,
+  "questions": [
+    {
+      "question": "হরপ্পা সভ্যতার কোন প্রত্নতাত্ত্বিক ক্ষেত্র থেকে 'জাহাজঘাটা' (Dockyard)-এর নিদর্শন পাওয়া গেছে?",
+      "options": [
+        "কালিবঙ্গান",
+        "বানওয়ালি",
+        "লোথাল",
+        "রোপার"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "গৌতম বুদ্ধ তাঁর প্রথম ধর্মোপদেশ (ধর্মচক্র প্রবর্তন) কোথায় দিয়েছিলেন?",
+      "options": [
+        "বোধগয়া",
+        "সারনাথ",
+        "কুশীনগর",
+        "লুম্বিনী"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "সংস্কৃত নাটক 'মুদ্রারাক্ষস'-এর রচয়িতা কে ছিলেন?",
+      "options": [
+        "কালিদাস",
+        "শূদ্রক",
+        "ভবভূতি",
+        "বিশাখদত্ত"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "কোন চোল শাসক 'গঙ্গাইকোণ্ডচোল' উপাধি ধারণ করেছিলেন?",
+      "options": [
+        "প্রথম রাজরাজ",
+        "প্রথম রাজেন্দ্র চোল",
+        "কুলোতুঙ্গ চোল",
+        "বিজয়ালয়"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "দিল্লির সুলতানি আমলে 'রক্ত ও লৌহ নীতি' (Blood and Iron Policy) কে অনুসরণ করেছিলেন?",
+      "options": [
+        "ইলতুৎমিস",
+        "আলাউদ্দিন খলজি",
+        "গিয়াসউদ্দিন বলবন",
+        "মহম্মদ বিন তুঘলক"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "১৫২৭ খ্রিস্টাব্দের 'খানোয়ার যুদ্ধ' বাবর ও কার মধ্যে সংঘটিত হয়েছিল?",
+      "options": [
+        "ইব্রাহিম লোদি",
+        "রানা সঙ্গ",
+        "মেদিনী রায়",
+        "শের শাহ সুরি"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "কোন মুঘল সম্রাটের শাসনকালকে মুঘল 'স্থাপত্যের স্বর্ণযুগ' বলা হয়?",
+      "options": [
+        "আকবর",
+        "জাহাঙ্গীর",
+        "শাহজাহান",
+        "ঔরঙ্গজেব"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "১৭৬৪ খ্রিস্টাব্দের 'বক্সারের যুদ্ধ'-এ ইংরেজ বাহিনীর নেতৃত্ব কে দিয়েছিলেন?",
+      "options": [
+        "রবার্ট ক্লাইভ",
+        "হেক্টর মুনরো",
+        "আয়ার কুট",
+        "লর্ড কর্নওয়ালিস"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "১৮৫৪ সালের 'উডের ডেসপ্যাচ' (Wood's Despatch) কোন বিষয়ের সাথে যুক্ত ছিল?",
+      "options": [
+        "শিক্ষা সংস্কার",
+        "ভূমি রাজস্ব ব্যবস্থা",
+        "রেলপথ বিস্তার",
+        "বিচার বিভাগীয় সংস্কার"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "১৮৫৯ সালের 'নীল বিদ্রোহ' বাংলার কোন জেলা থেকে প্রথম শুরু হয়েছিল?",
+      "options": [
+        "যশোর",
+        "পাবনা",
+        "নদিয়া",
+        "মুর্শিদাবাদ"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "১৯২৩ সালে 'স্বরাজ্য দল' (Swaraj Party) কারা প্রতিষ্ঠা করেছিলেন?",
+      "options": [
+        "মহাত্মা গান্ধী ও বল্লভভাই প্যাটেল",
+        "চিত্তরঞ্জন দাশ ও মতিলাল নেহরু",
+        "জওহরলাল নেহরু ও সুভাষচন্দ্র বসু",
+        "লালা লাজপত রায় ও বিপিনচন্দ্র পাল"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "১৯২৮ সালের 'বারদৌলি সত্যাগ্রহ'-এর নেতৃত্ব কে দিয়েছিলেন?",
+      "options": [
+        "বল্লভভাই প্যাটেল",
+        "রাজেন্দ্র প্রসাদ",
+        "বিনোবা ভাবে",
+        "মোরারজি দেশাই"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "১৯৩০ সালের 'চট্টগ্রাম অস্ত্রাগার লুণ্ঠন' কার নেতৃত্বে সংঘটিত হয়েছিল?",
+      "options": [
+        "বাঘা যতীন",
+        "রাসবিহারী বসু",
+        "মাস্টারদা সূর্য সেন",
+        "বিনয় বসু"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "১৯৪০ সালের 'আগস্ট প্রস্তাব' (August Offer) কে ঘোষণা করেছিলেন?",
+      "options": [
+        "লর্ড ওয়াভেল",
+        "লর্ড লিনলিথগো",
+        "লর্ড মাউন্টব্যাটেন",
+        "লর্ড আরউইন"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "১৯৪৭ সালে ভারতের স্বাধীনতার সময় ব্রিটেনের প্রধানমন্ত্রী কে ছিলেন?",
+      "options": [
+        "উইনস্টন চার্চিল",
+        "র‍্যামজে ম্যাকডোনাল্ড",
+        "নেভিল চেম্বারলেন",
+        "ক্লিমেন্ট অ্যাটলি"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "পশ্চিমবঙ্গের কোন জেলায় 'অযোধ্যা পাহাড়' অবস্থিত?",
+      "options": [
+        "বাঁকুড়া",
+        "পুরুলিয়া",
+        "বীরভূম",
+        "ঝাড়গ্রাম"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "'ফারাক্কা ব্যারেজ' পশ্চিমবঙ্গের কোন জেলায় অবস্থিত?",
+      "options": [
+        "মালদহ",
+        "বীরভূম",
+        "মুর্শিদাবাদ",
+        "নদিয়া"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "পশ্চিমবঙ্গের প্রধান 'খরিফ শস্য' নিচের কোনটি?",
+      "options": [
+        "আমন ধান",
+        "বোরো ধান",
+        "গম",
+        "সরিষা"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "একশৃঙ্গ গণ্ডারের জন্য বিখ্যাত 'কাজিরাঙ্গা জাতীয় উদ্যান' ভারতের কোন রাজ্যে অবস্থিত?",
+      "options": [
+        "পশ্চিমবঙ্গ",
+        "আসাম",
+        "অরুণাচল প্রদেশ",
+        "মণিপুর"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "ভারতের বৃহত্তম অন্তর্দেশীয় লবণাক্ত জলের হ্রদ 'সম্ভর হ্রদ' কোন রাজ্যে অবস্থিত?",
+      "options": [
+        "গুজরাট",
+        "মহারাষ্ট্র",
+        "রাজস্থান",
+        "হরিয়ানা"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "'নাথুলা পাস' (Nathu La Pass) ভারতের কোন রাজ্যে অবস্থিত?",
+      "options": [
+        "অরুণাচল প্রদেশ",
+        "সিকিম",
+        "হিমাচল প্রদেশ",
+        "উত্তরাখণ্ড"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "ভারতের কোন নদীটি 'দক্ষিণ ভারতের গঙ্গা' বা 'বৃদ্ধ গঙ্গা' নামে পরিচিত?",
+      "options": [
+        "গোদাবরী",
+        "কৃষ্ণা",
+        "কাবেরী",
+        "তুঙ্গভদ্রা"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "ভারতের কোন উপকূলে শীতকালে উত্তর-পূর্ব মৌসুমি বায়ুর প্রভাবে প্রচুর বৃষ্টিপাত হয়?",
+      "options": [
+        "মালাবার উপকূল",
+        "কোঙ্কন উপকূল",
+        "করমণ্ডল উপকূল",
+        "উৎকল উপকূল"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "বায়ুমণ্ডলের কোন স্তরে 'ওজোন স্তর' (Ozone Layer) অবস্থিত?",
+      "options": [
+        "ট্রপোস্ফিয়ার",
+        "স্ট্র্যাটোস্ফিয়ার",
+        "মেসোস্ফিয়ার",
+        "থার্মোস্ফিয়ার"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "ভারতীয় সংবিধানের কোন ধারায় 'সংবিধান সংশোধন প্রক্রিয়া' (Constitutional Amendment) বর্ণিত আছে?",
+      "options": [
+        "৩৫২ নং ধারা",
+        "৩৫৬ নং ধারা",
+        "৩৬০ নং ধারা",
+        "৩৬৮ নং ধারা"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "ভারতীয় সংবিধানের কোন ধারা অনুযায়ী 'সুপ্রিম কোর্ট' একটি 'অভিলেখ আদালত' (Court of Record)?",
+      "options": [
+        "১২৪ নং ধারা",
+        "১২৯ নং ধারা",
+        "১৩৬ নং ধারা",
+        "১৪১ নং ধারা"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "ভারতের সংবিধানে 'মৌলিক অধিকার' (Fundamental Rights)-এর ধারণাটি কোন দেশের সংবিধান থেকে নেওয়া হয়েছে?",
+      "options": [
+        "আমেরিকা যুক্তরাষ্ট্র",
+        "ব্রিটেন",
+        "আয়ারল্যান্ড",
+        "কানাডা"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "স্বাধীন ভারতের লোকসভার প্রথম 'স্পিকার' (অধ্যক্ষ) কে ছিলেন?",
+      "options": [
+        "এম. অনন্তশায়নম আয়াঙ্গার",
+        "হুকুম সিং",
+        "জি. ভি. মাভালঙ্কার",
+        "নীলম সঞ্জীব রেড্ডি"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "ভারতীয় সংবিধানের কোন ধারায় 'জাতীয় তফসিলি জাতি কমিশন' (NCSC) গঠনের কথা বলা হয়েছে?",
+      "options": [
+        "৩২৪ নং ধারা",
+        "৩৩৮ নং ধারা",
+        "৩৪০ নং ধারা",
+        "৩৪৩ নং ধারা"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "নিউটনের প্রথম গতিসূত্র থেকে নিচের কোনটির ধারণা পাওয়া যায়?",
+      "options": [
+        "জাড্য ধর্ম ও বলের সংজ্ঞা",
+        "বলের পরিমাপ",
+        "ভরবেগের সংরক্ষণ",
+        "ক্রিয়া ও প্রতিক্রিয়া"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "কোন যন্ত্রের সাহায্যে 'বায়ুমণ্ডলীয় চাপ' পরিমাপ করা হয়?",
+      "options": [
+        "হাইগ্রোমিটার",
+        "অ্যানিমোমিটার",
+        "ব্যারোমিটার",
+        "ম্যানোমিটার"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "মানবদেহের রক্তের হিমোগ্লোবিনে নিচের কোন ধাতুটি মূল উপাদান হিসেবে থাকে?",
+      "options": [
+        "তামা",
+        "লোহা (আয়রন)",
+        "দস্তা",
+        "ম্যাগনেশিয়াম"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "১৯২৮ সালে কোন বিজ্ঞানী 'পেনিসিলিন' আবিষ্কার করেছিলেন?",
+      "options": [
+        "আলেকজান্ডার ফ্লেমিং",
+        "লুই পাস্তুর",
+        "এডওয়ার্ড জেনার",
+        "রবার্ট কচ"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "'ওয়াশিং সোডা' (কাপড় কাচা সোডা)-র রাসায়নিক নাম কী?",
+      "options": [
+        "সোডিয়াম বাইকার্বনেট",
+        "সোডিয়াম হাইড্রক্সাইড",
+        "সোডিয়াম কার্বনেট",
+        "ক্যালসিয়াম অক্সাইড"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "উদ্ভিদের কোন কলা (Tissue) মূল থেকে পাতায় জল ও খনিজ লবণ পরিবহন করে?",
+      "options": [
+        "ফ্লোয়েম",
+        "জাইলেম",
+        "প্যারেনকাইমা",
+        "কোলেনকাইমা"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "ভারতের কোন পঞ্চবার্ষিকী পরিকল্পনায় 'গরিবি হটাও' স্লোগানটি গৃহীত হয়েছিল?",
+      "options": [
+        "তৃতীয় পঞ্চবার্ষিকী পরিকল্পনা",
+        "চতুর্থ পঞ্চবার্ষিকী পরিকল্পনা",
+        "পঞ্চম পঞ্চবার্ষিকী পরিকল্পনা",
+        "ষষ্ঠ পঞ্চবার্ষিকী পরিকল্পনা"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "কৃষি ও গ্রামীণ উন্নয়নের শীর্ষ সংস্থা 'নাবার্ড' (NABARD) কত সালে প্রতিষ্ঠিত হয়েছিল?",
+      "options": [
+        "১৯৭৫ সালে",
+        "১৯৮২ সালে",
+        "১৯৮৮ সালে",
+        "১৯৯১ সালে"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "'কুচিপুরি' ভারতের কোন রাজ্যের ধ্রুপদী নৃত্য?",
+      "options": [
+        "অন্ধ্রপ্রদেশ",
+        "তামিলনাড়ু",
+        "কেরালা",
+        "ওড়িশা"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "স্বামী বিবেকানন্দ শিকাগো বিশ্ব ধর্মমহাসভায় ঐতিহাসিক ভাষণ কত সালে দিয়েছিলেন?",
+      "options": [
+        "১৮৮৬ সালে",
+        "১৮৯১ সালে",
+        "১৮৯৩ সালে",
+        "১৮৯৭ সালে"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "'বিশ্ব স্বাস্থ্য সংস্থা' (WHO)-এর সদর দপ্তর কোথায় অবস্থিত?",
+      "options": [
+        "নিউ ইয়র্ক",
+        "জেনেভা",
+        "প্যারিস",
+        "রোম"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "দুটি সংখ্যার অনুপাত ৩ : ৪ এবং তাদের ল.সা.গু. (LCM) ১৮০। সংখ্যা দুটির মধ্যে বৃহত্তর সংখ্যাটি কত?",
+      "options": [
+        "৪৫",
+        "৬০",
+        "৭৫",
+        "৯০"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "কোনো সংখ্যাকে ৩৫ দিয়ে ভাগ করলে ৮ ভাগশেষ থাকে। ওই সংখ্যাটিকে ৭ দিয়ে ভাগ করলে কত ভাগশেষ থাকবে?",
+      "options": [
+        "০",
+        "১",
+        "২",
+        "৩"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "বার্ষিক ৮% সরল সুদের হারে কত বছরে কোনো আসল তার দ্বিগুণ হবে?",
+      "options": [
+        "১০ বছর",
+        "১২ বছর",
+        "১২.৫ বছর",
+        "১৫ বছর"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "৫,০০০ টাকার বার্ষিক ১০% হারে ২ বছরের চক্রবৃদ্ধি সুদ ও সরল সুদের পার্থক্য কত?",
+      "options": [
+        "৪০ টাকা",
+        "৫০ টাকা",
+        "৬০ টাকা",
+        "১০০ টাকা"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "একজন দোকানদার ১০টি পেনের ক্রয়মূল্যে ৮টি পেন বিক্রি করেন। তাঁর শতকরা লাভ কত?",
+      "options": [
+        "২০%",
+        "২৫%",
+        "৩০%",
+        "১৫%"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "একটি বইয়ের ধার্যমূল্য (Marked Price) ৪০০ টাকা। ১৫% ছাড় দিয়ে বইটি বিক্রি করলে বিক্রয়মূল্য কত হবে?",
+      "options": [
+        "৩২০ টাকা",
+        "৩৪০ টাকা",
+        "৩৫০ টাকা",
+        "৩৬০ টাকা"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "একটি শহরের বর্তমান জনসংখ্যা ১০,০০০। প্রতি বছর জনসংখ্যা ১০% হারে বৃদ্ধি পেলে ২ বছর পর জনসংখ্যা কত হবে?",
+      "options": [
+        "১২,০০০",
+        "১২,১০০",
+        "১২,২০০",
+        "১১,১০০"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "একটি আয়তক্ষেত্রের দৈর্ঘ্য ১০% বৃদ্ধি ও প্রস্থ ১০% হ্রাস করলে তার ক্ষেত্রফলের শতকরা কী পরিবর্তন হবে?",
+      "options": [
+        "কোনো পরিবর্তন হবে না",
+        "১% বৃদ্ধি পাবে",
+        "১% হ্রাস পাবে",
+        "২% হ্রাস পাবে"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "A একটি কাজ ১০ দিনে এবং B ওই কাজটি ১৫ দিনে করতে পারে। তারা দুজনে একসাথে কাজটি কত দিনে শেষ করবে?",
+      "options": [
+        "৫ দিনে",
+        "৬ দিনে",
+        "৭ দিনে",
+        "৮ দিনে"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "একটি নল দিয়ে একটি চৌবাচ্চা ১২ ঘণ্টায় পূর্ণ হয় এবং অপর একটি নল দিয়ে ১৮ ঘণ্টায় খালি হয়। দুটি নল একসাথে খুলে দিলে চৌবাচ্চাটি কত ঘণ্টায় পূর্ণ হবে?",
+      "options": [
+        "২৪ ঘণ্টায়",
+        "৩০ ঘণ্টায়",
+        "৩৬ ঘণ্টায়",
+        "৪০ ঘণ্টায়"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "২৪০ মিটার দীর্ঘ একটি ট্রেন ঘণ্টায় ৭২ কিমি বেগে চললে ৩৬০ মিটার দীর্ঘ একটি সেতুকে অতিক্রম করতে কত সময় নেবে?",
+      "options": [
+        "২০ সেকেন্ড",
+        "২৫ সেকেন্ড",
+        "৩০ সেকেন্ড",
+        "৩৫ সেকেন্ড"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "একটি নৌকা স্রোতের অনুকূলে ২ ঘণ্টায় ২৪ কিমি এবং স্রোতের প্রতিকূলে ৩ ঘণ্টায় ২৪ কিমি যায়। স্থির জলে নৌকার বেগ কত?",
+      "options": [
+        "৮ কিমি/ঘণ্টা",
+        "১০ কিমি/ঘণ্টা",
+        "১২ কিমি/ঘণ্টা",
+        "১৪ কিমি/ঘণ্টা"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "যদি ৩A = ৪B = ৫C হয়, তবে A : B : C কত?",
+      "options": [
+        "৩ : ৪ : ৫",
+        "১৫ : ১২ : ১০",
+        "২০ : ১৫ : ১২",
+        "১২ : ১৫ : ২০"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "তিনটি সংখ্যার গড় ২০। প্রথম দুটি সংখ্যার গড় ১৮ হলে, তৃতীয় সংখ্যাটি কত?",
+      "options": [
+        "২২",
+        "২৪",
+        "২৬",
+        "২৮"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "ক্রিকেট দলের ১১ জন খেলোয়াড়ের গড় বয়স ২২ বছর। কোচের বয়স যোগ করলে গড় বয়স ১ বছর বেড়ে যায়। কোচের বয়স কত?",
+      "options": [
+        "৩২ বছর",
+        "৩৪ বছর",
+        "৩৫ বছর",
+        "৩৬ বছর"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "একজন অসৎ ব্যবসায়ী ক্রয়মূল্যেই দ্রব্য বিক্রি করার দাবি করেন, কিন্তু ১ কেজির পরিবর্তে ৮০০ গ্রাম ওজন দেন। তাঁর শতকরা লাভ কত?",
+      "options": [
+        "২০%",
+        "২৫%",
+        "৩০%",
+        "১৫%"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "৭০০ টাকাকে A, B ও C-এর মধ্যে এমনভাবে ভাগ করা হলো যাতে A, B-এর অর্ধেক এবং B, C-এর অর্ধেক পায়। C কত টাকা পাবে?",
+      "options": [
+        "১০০ টাকা",
+        "২০০ টাকা",
+        "৩০০ টাকা",
+        "৪০০ টাকা"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "একটি বর্গক্ষেত্রের কর্ণের দৈর্ঘ্য ৮√২ সেমি হলে, বর্গক্ষেত্রটির পরিসীমা কত?",
+      "options": [
+        "২৪ সেমি",
+        "৩২ সেমি",
+        "৪০ সেমি",
+        "৬৪ সেমি"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "একটি সমকোণী ত্রিভুজের ভূমি ১২ সেমি এবং উচ্চতা ৫ সেমি হলে, ত্রিভুজটির অতিভুজের (Hypotenuse) দৈর্ঘ্য কত?",
+      "options": [
+        "১৩ সেমি",
+        "১৪ সেমি",
+        "১৫ সেমি",
+        "১৭ সেমি"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "একটি গোলকের (Sphere) ব্যাসার্ধ ৭ সেমি হলে, গোলকটির সমগ্রতলের ক্ষেত্রফল কত? (π = ২২/৭)",
+      "options": [
+        "৫১৬ বর্গসেমি",
+        "৬১৬ বর্গসেমি",
+        "৭১৬ বর্গসেমি",
+        "৪১৬ বর্গসেমি"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "যদি x - 1/x = 4 হয়, তবে x² + 1/x²-এর মান কত?",
+      "options": [
+        "১৪",
+        "১৬",
+        "১৮",
+        "২০"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "কোনো সংখ্যার ৪০% যদি ১২০ হয়, তবে ওই সংখ্যাটির ৬০% কত হবে?",
+      "options": [
+        "১৫০",
+        "১৮০",
+        "২০০",
+        "২৪০"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "চার অঙ্কের কোন বৃহত্তম সংখ্যা ১২, ১৫ ও ১৮ দ্বারা সম্পূর্ণ বিভাজ্য?",
+      "options": [
+        "৯৯০০",
+        "৯৯৬০",
+        "৯৯৮০",
+        "৯৯৯০"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "১৫ টাকা প্রতি কেজি দরের চায়ের সাথে ২০ টাকা প্রতি কেজি দরের চা কী অনুপাতে মেশালে মিশ্রিত চায়ের দাম ১৬.৫০ টাকা প্রতি কেজি হবে?",
+      "options": [
+        "৩ : ৭",
+        "৭ : ৩",
+        "৫ : ৩",
+        "৩ : ৫"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "একটি ঘরের দৈর্ঘ্য, প্রস্থ ও উচ্চতা যথাক্রমে ১০ মিটার, ৮ মিটার ও ৬ মিটার। ঘরটির চার দেয়ালের ক্ষেত্রফল কত?",
+      "options": [
+        "১৮০ বর্গমিটার",
+        "২১৬ বর্গমিটার",
+        "২৪০ বর্গমিটার",
+        "১৪৪ বর্গমিটার"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "যদি ৬ জন পুরুষ বা ৮ জন মহিলা একটি কাজ ১২ দিনে করতে পারে, তবে ৩ জন পুরুষ ও ৪ জন মহিলা একসাথে ওই কাজটি কত দিনে করবে?",
+      "options": [
+        "৬ দিনে",
+        "১২ দিনে",
+        "১৮ দিনে",
+        "২৪ দিনে"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "একটি গাড়ি ৪ ঘণ্টায় ২৪০ কিমি দূরত্ব অতিক্রম করে। গাড়িটির গতিবেগ অর্ধেক করলে ওই একই দূরত্ব অতিক্রম করতে কত সময় লাগবে?",
+      "options": [
+        "৬ ঘণ্টা",
+        "৮ ঘণ্টা",
+        "১০ ঘণ্টা",
+        "১২ ঘণ্টা"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "√০.০০৬৪-এর মান কত?",
+      "options": [
+        "০.৮",
+        "০.০৮",
+        "০.০০৮",
+        "০.০৪"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "৫ জন বন্ধু একে অপরের সাথে একবার করে করমর্দন (Handshake) করলে মোট কতবার করমর্দন হবে?",
+      "options": [
+        "১০ বার",
+        "১৫ বার",
+        "২০ বার",
+        "২৫ বার"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "০.২৫ কে শতকরায় (Percentage) প্রকাশ করলে কত হবে?",
+      "options": [
+        "২.৫%",
+        "২৫%",
+        "০.২৫%",
+        "২৫০%"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Choose the word most similar in meaning (Synonym) to 'BENEVOLENT':",
+      "options": [
+        "Cruel",
+        "Kind",
+        "Selfish",
+        "Arrogant"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Choose the word most similar in meaning (Synonym) to 'AUDACIOUS':",
+      "options": [
+        "Timid",
+        "Bold",
+        "Cautious",
+        "Cowardly"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Choose the word most similar in meaning (Synonym) to 'METICULOUS':",
+      "options": [
+        "Careless",
+        "Thorough",
+        "Hasty",
+        "Negligent"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Choose the word opposite in meaning (Antonym) to 'TRANSPARENT':",
+      "options": [
+        "Clear",
+        "Opaque",
+        "Lucid",
+        "Crystal"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Choose the word opposite in meaning (Antonym) to 'HARMONY':",
+      "options": [
+        "Peace",
+        "Concord",
+        "Discord",
+        "Agreement"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Choose the word opposite in meaning (Antonym) to 'FRUGAL':",
+      "options": [
+        "Economical",
+        "Thrifty",
+        "Extravagant",
+        "Miserly"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "One-word substitution: A person who can speak many languages is called a:",
+      "options": [
+        "Linguist",
+        "Polyglot",
+        "Orator",
+        "Lexicographer"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "One-word substitution: One who believes in fate is called a:",
+      "options": [
+        "Atheist",
+        "Fatalist",
+        "Optimist",
+        "Pessimist"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "One-word substitution: A government run by the wealthy people is called:",
+      "options": [
+        "Democracy",
+        "Autocracy",
+        "Plutocracy",
+        "Bureaucracy"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "One-word substitution: A place where birds are kept is called:",
+      "options": [
+        "Apiary",
+        "Aviary",
+        "Aquarium",
+        "Sanctuary"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "One-word substitution: Something that cannot be read is:",
+      "options": [
+        "Inaudible",
+        "Illegible",
+        "Inevitable",
+        "Incorrigible"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Choose the correct meaning of the idiom 'TO SPILL THE BEANS':",
+      "options": [
+        "To waste food",
+        "To reveal a secret",
+        "To make a mess",
+        "To start a quarrel"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Choose the correct meaning of the idiom 'AT SIXES AND SEVENS':",
+      "options": [
+        "In perfect order",
+        "In a state of confusion",
+        "At an early age",
+        "Very punctual"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Choose the correct meaning of the idiom 'A WHITE ELEPHANT':",
+      "options": [
+        "A rare and precious gift",
+        "A costly but useless possession",
+        "An honest leader",
+        "A symbol of peace"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Choose the correct meaning of the idiom 'TO BEAT AROUND THE BUSH':",
+      "options": [
+        "To hunt in the forest",
+        "To avoid coming to the main point",
+        "To work very hard",
+        "To punish someone unfairly"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Fill in the blank with the appropriate preposition: The old man died _______ cholera.",
+      "options": [
+        "from",
+        "of",
+        "by",
+        "with"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Fill in the blank with the appropriate preposition: I prefer tea _______ coffee.",
+      "options": [
+        "than",
+        "over",
+        "to",
+        "from"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Fill in the blank with the appropriate preposition: The cat jumped _______ the table.",
+      "options": [
+        "upon",
+        "in",
+        "at",
+        "between"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Choose the correct phrasal verb to replace 'extinguish': Please extinguish the candle before sleeping.",
+      "options": [
+        "put out",
+        "put off",
+        "put on",
+        "put away"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Choose the correct phrasal verb to replace 'tolerate': I cannot tolerate such rude behaviour anymore.",
+      "options": [
+        "put up with",
+        "look down upon",
+        "give in to",
+        "break out with"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Identify the part of the sentence with a grammatical error: 'One of my friend (A) / is going to Delhi (B) / tomorrow morning. (C) / No error (D)'",
+      "options": [
+        "One of my friend",
+        "is going to Delhi",
+        "tomorrow morning.",
+        "No error"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Identify the part of the sentence with a grammatical error: 'The sceneries of Kashmir (A) / are very (B) / charming. (C) / No error (D)'",
+      "options": [
+        "The sceneries of Kashmir",
+        "are very",
+        "charming.",
+        "No error"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Identify the part of the sentence with a grammatical error: 'Unless you do not work hard, (A) / you will not (B) / pass the exam. (C) / No error (D)'",
+      "options": [
+        "Unless you do not work hard,",
+        "you will not",
+        "pass the exam.",
+        "No error"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Change the voice: 'The hunter killed the lion.'",
+      "options": [
+        "The lion was killed by the hunter.",
+        "The lion is killed by the hunter.",
+        "The lion had been killed by the hunter.",
+        "The lion was being killed by the hunter."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Change the voice: 'Someone has stolen my watch.'",
+      "options": [
+        "My watch was stolen.",
+        "My watch has been stolen.",
+        "My watch had been stolen.",
+        "My watch is being stolen."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Change into indirect speech: She said, 'I am reading a novel.'",
+      "options": [
+        "She said that she is reading a novel.",
+        "She said that she was reading a novel.",
+        "She said that she had been reading a novel.",
+        "She told that she was reading a novel."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Choose the correctly spelt word from the following:",
+      "options": [
+        "Bureaucrasy",
+        "Bureaucracy",
+        "Burocracy",
+        "Bureacracy"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Identify the word with the correct spelling:",
+      "options": [
+        "Embarass",
+        "Embarrass",
+        "Embaras",
+        "Embarras"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Fill in the blank: Bread and butter _______ his only food.",
+      "options": [
+        "are",
+        "were",
+        "is",
+        "have been"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Fill in the blank: He has been living in Kolkata _______ 2015.",
+      "options": [
+        "for",
+        "from",
+        "since",
+        "by"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}
