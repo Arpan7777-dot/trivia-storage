@@ -1,41 +1,12 @@
----
-category: static, music
-title: Important Instruments and their musicians
-description: List of important musicians in India
-techStack: Static GK
-pubDate: 2026-11-13T20:54:00.000+05:30
-author: Arpan
----
-* **Sitar:** Ravi Shankar, Ustad Vilayat Khan, Nikhil Banerjee, Shahid Parvez, Nishad Khan, Debu Chowdhuri, Shamim Ahmed Khan
-
-* **Sarod:** Amjad Ali Khan, Ali Akbar Khan, Buddhadev Das Gupta, Radhika Mohan Mitra, Alauddin Khan
-
-* **Violin:** Lalgudi Jayaraman, Dr. L. Subramaniam, M.S. Gopalakrishnan, N. Rajam
-
-* **Santoor:** Shiv Kumar Sharma, Bhajan Sopori, Rahul Sharma
-
-* **Sarangi:** Ram Narayan, Sultan Khan, Sabri Khan
-
-* **Veena:** Chitti Babu, E. Gayathri, Asad Ali Khan
-
-* **Mandolin:** U. Srinivas
-
-* **Guitar:** Brij Bhushan Kabra, Viswa Mohan Bhatt
-
-* **Tabla:** Zakir Hussain, Allah Rakha, Kishan Maharaj, Anindo Chatterjee, Kumar Bose
-
-* **Mridangam:** Palghat Mani Iyer, Karaikudi R. Mani, Umayalpuram K. Sivaraman
-
-* **Ghatam:** T.H. Vinayakram
-
-* **Pakhawaj:** Pandit Ayodhya Prasad, Ramji Upadhyaya
-
-* **Kanjira:** Pudukottai Dakshinamurthi Pillai, G. Harishankar
-
-* **Flute (Bansuri):** Hariparasad Chaurasia, Pannalal Ghosh, T.R. Mahalingam, Ronu Majumdar
-
-* **Shehnai:** Bismillah Khan, Daya Shankar
-
-* **Nagaswaram:** T.N. Rajaratinam Pillai, Sheikh Chinna Moulana
-
-* **Harmonium:** Appa Jalgaonkar, Tulsidas Borkar, P. Madhavan
+{
+  "id": "important-instruments-and-their-musicians.md",
+  "data": {
+    "category": "static, music",
+    "title": "Important Instruments and their musicians",
+    "description": "List of important musicians in India",
+    "techStack": "Static GK",
+    "pubDate": "2026-11-13T20:54:00.000+05:30",
+    "author": "Arpan"
+  },
+  "body": "<div class=\"mx-auto max-w-6xl space-y-8 p-4 sm:p-6 bg-slate-950 text-slate-100 rounded-2xl\">\n  <section>\n    <div class=\"mb-4\">\n      <h2 class=\"text-xl font-semibold text-amber-400\">Important Instruments and Their Musicians</h2>\n      <p class=\"text-sm text-slate-400\">Key Indian musical instruments and renowned artists associated with each.</p>\n    </div>\n    <div class=\"overflow-x-auto rounded-xl border border-slate-800 bg-slate-900 shadow-sm\">\n      <table class=\"min-w-full divide-y divide-slate-800 text-left text-sm\">\n        <thead class=\"bg-slate-800/80 text-xs font-semibold uppercase tracking-wider text-slate-300\">\n          <tr>\n            <th scope=\"col\" class=\"px-4 py-3.5\">Instrument</th>\n            <th scope=\"col\" class=\"px-4 py-3.5\">Musicians</th>\n          </tr>\n        </thead>\n        <tbody class=\"divide-y divide-slate-800 text-slate-300\">\n          <tr class=\"hover:bg-slate-800/50 transition-colors\"><td class=\"whitespace-nowrap px-4 py-3 font-medium text-slate-100\">Sitar</td><td class=\"px-4 py-3\">Ravi Shankar, Ustad Vilayat Khan, Nikhil Banerjee, Shahid Parvez, Nishad Khan, Debu Chowdhuri, Shamim Ahmed Khan</td></tr>\n          <tr class=\"hover:bg-slate-800/50 transition-colors\"><td class=\"whitespace-nowrap px-4 py-3 font-medium text-slate-100\">Sarod</td><td class=\"px-4 py-3\">Amjad Ali Khan, Ali Akbar Khan, Buddhadev Das Gupta, Radhika Mohan Mitra, Alauddin Khan</td></tr>\n          <tr class=\"hover:bg-slate-800/50 transition-colors\"><td class=\"whitespace-nowrap px-4 py-3 font-medium text-slate-100\">Violin</td><td class=\"px-4 py-3\">Lalgudi Jayaraman, Dr. L. Subramaniam, M.S. Gopalakrishnan, N. Rajam</td></tr>\n          <tr class=\"hover:bg-slate-800/50 transition-colors\"><td class=\"whitespace-nowrap px-4 py-3 font-medium text-slate-100\">Santoor</td><td class=\"px-4 py-3\">Shiv Kumar Sharma, Bhajan Sopori, Rahul Sharma</td></tr>\n          <tr class=\"hover:bg-slate-800/50 transition-colors\"><td class=\"whitespace-nowrap px-4 py-3 font-medium text-slate-100\">Sarangi</td><td class=\"px-4 py-3\">Ram Narayan, Sultan Khan, Sabri Khan</td></tr>\n          <tr class=\"hover:bg-slate-800/50 transition-colors\"><td class=\"whitespace-nowrap px-4 py-3 font-medium text-slate-100\">Veena</td><td class=\"px-4 py-3\">Chitti Babu, E. Gayathri, Asad Ali Khan</td></tr>\n          <tr class=\"hover:bg-slate-800/50 transition-colors\"><td class=\"whitespace-nowrap px-4 py-3 font-medium text-slate-100\">Mandolin</td><td class=\"px-4 py-3\">U. Srinivas</td></tr>\n          <tr class=\"hover:bg-slate-800/50 transition-colors\"><td class=\"whitespace-nowrap px-4 py-3 font-medium text-slate-100\">Guitar</td><td class=\"px-4 py-3\">Brij Bhushan Kabra, Viswa Mohan Bhatt</td></tr>\n          <tr class=\"hover:bg-slate-800/50 transition-colors\"><td class=\"whitespace-nowrap px-4 py-3 font-medium text-slate-100\">Tabla</td><td class=\"px-4 py-3\">Zakir Hussain, Allah Rakha, Kishan Maharaj, Anindo Chatterjee, Kumar Bose</td></tr>\n          <tr class=\"hover:bg-slate-800/50 transition-colors\"><td class=\"whitespace-nowrap px-4 py-3 font-medium text-slate-100\">Mridangam</td><td class=\"px-4 py-3\">Palghat Mani Iyer, Karaikudi R. Mani, Umayalpuram K. Sivaraman</td></tr>\n          <tr class=\"hover:bg-slate-800/50 transition-colors\"><td class=\"whitespace-nowrap px-4 py-3 font-medium text-slate-100\">Ghatam</td><td class=\"px-4 py-3\">T.H. Vinayakram</td></tr>\n          <tr class=\"hover:bg-slate-800/50 transition-colors\"><td class=\"whitespace-nowrap px-4 py-3 font-medium text-slate-100\">Pakhawaj</td><td class=\"px-4 py-3\">Pandit Ayodhya Prasad, Ramji Upadhyaya</td></tr>\n          <tr class=\"hover:bg-slate-800/50 transition-colors\"><td class=\"whitespace-nowrap px-4 py-3 font-medium text-slate-100\">Kanjira</td><td class=\"px-4 py-3\">Pudukottai Dakshinamurthi Pillai, G. Harishankar</td></tr>\n          <tr class=\"hover:bg-slate-800/50 transition-colors\"><td class=\"whitespace-nowrap px-4 py-3 font-medium text-slate-100\">Flute (Bansuri)</td><td class=\"px-4 py-3\">Hariparasad Chaurasia, Pannalal Ghosh, T.R. Mahalingam, Ronu Majumdar</td></tr>\n          <tr class=\"hover:bg-slate-800/50 transition-colors\"><td class=\"whitespace-nowrap px-4 py-3 font-medium text-slate-100\">Shehnai</td><td class=\"px-4 py-3\">Bismillah Khan, Daya Shankar</td></tr>\n          <tr class=\"hover:bg-slate-800/50 transition-colors\"><td class=\"whitespace-nowrap px-4 py-3 font-medium text-slate-100\">Nagaswaram</td><td class=\"px-4 py-3\">T.N. Rajaratinam Pillai, Sheikh Chinna Moulana</td></tr>\n          <tr class=\"hover:bg-slate-800/50 transition-colors\"><td class=\"whitespace-nowrap px-4 py-3 font-medium text-slate-100\">Harmonium</td><td class=\"px-4 py-3\">Appa Jalgaonkar, Tulsidas Borkar, P. Madhavan</td></tr>\n        </tbody>\n      </table>\n    </div>\n  </section>\n</div>"
+}
