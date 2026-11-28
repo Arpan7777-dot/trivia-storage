@@ -1,0 +1,18 @@
+{
+  "id": "light-physics-notes",
+  "data": {
+    "category": "science, physics",
+    "title": "Light(Physics) Notes",
+    "description": "Handwritten notes from the light chapter",
+    "techStack": "Physics",
+    "pubDate": "2026-11-23T12:14:00.000+05:30",
+    "author": "Arpan",
+    "gallery": [
+      "https://drive.google.com/file/d/1OjGlwe_yLCyNKFUYYlggLvK_h2_rB1Py/view?usp=drivesdk",
+      "https://drive.google.com/file/d/1VrnTb0u_nuqBiTM7tZRntQ2WClTCzfL_/view?usp=drivesdk",
+      "https://drive.google.com/file/d/1ZDVTi6sXyMWYi4WPM2EgSFteLu3r3_DL/view?usp=drivesdk",
+      "https://drive.google.com/file/d/1Rl03uUDypv5RXqOG_N8dR5B7OERbIzXV/view?usp=drivesdk"
+    ]
+  },
+  "body": "<div class=\"mx-auto max-w-6xl p-4 sm:p-6 bg-slate-950 text-slate-100 rounded-2xl\">\n  <section class=\"rounded-xl border border-slate-800 bg-slate-900 p-6 shadow-sm\">\n    <h2 class=\"text-xl font-semibold text-amber-400\">Light(Physics) Notes</h2>\n    <p class=\"mt-2 text-sm text-slate-300\">Additional notes here</p>\n  </section>\n</div>"
+}
