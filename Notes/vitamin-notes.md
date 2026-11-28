@@ -57,9 +57,4 @@ author: Arpan
       </tr>
 </table>
 
-```astro
- <h1>A</h1>
- <table>
-   
- </table>
-```
+
